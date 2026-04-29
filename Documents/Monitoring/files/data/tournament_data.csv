@@ -1,0 +1,960 @@
+tournament_id,tournament_name,finish,player_name,school,ranking,total_score,rd1,rd2,rd3,points,scraped_at
+238883,Information,1,New Mexico,Johnnie Clark,#123,-14.0,-4.0,-5.0,-5.0,117.28,2026-04-29T07:55:27.776718
+238883,Information,T2,Long Beach State,Alejandro De Castro,#38,-11.0,-1.0,-7.0,-3.0,91.34,2026-04-29T07:55:27.776760
+238883,Information,T2,Arizona State,Boston Bracken,,-11.0,-7.0,1.0,-5.0,91.34,2026-04-29T07:55:27.776793
+238883,Information,T4,Arizona State,Connor Williams,#32,-10.0,-4.0,-2.0,-4.0,84.04,2026-04-29T07:55:27.776824
+238883,Information,T4,San Diego,Ian Maspat,#119,-10.0,-6.0,-1.0,-3.0,84.04,2026-04-29T07:55:27.776854
+238883,Information,6,Long Beach State,Steen Zeman,,-8.0,-4.0,-3.0,-1.0,71.13,2026-04-29T07:55:27.776885
+238883,Information,7,Colorado,Brandon Knight,,-7.0,-2.0,0.0,-5.0,65.45,2026-04-29T07:55:27.776916
+238883,Information,8,New Mexico,Mesa Falleur,#13,-6.0,-1.0,-3.0,-2.0,60.21,2026-04-29T07:55:27.776946
+238883,Information,T9,Utah,Sergio Jimenez,#83,-5.0,2.0,-2.0,-5.0,55.4,2026-04-29T07:55:27.776974
+238883,Information,T9,UCLA,Baylor Larrabee,#85,-5.0,-2.0,1.0,-4.0,55.4,2026-04-29T07:55:27.777003
+238883,Information,T9,Arizona State,Michael Mjaaseth,#14,-5.0,-1.0,-3.0,-1.0,55.4,2026-04-29T07:55:27.777031
+238883,Information,T9,Long Beach State,Krishnav Nikhil Chopraa,,-5.0,-3.0,-4.0,2.0,55.4,2026-04-29T07:55:27.777057
+238883,Information,T13,Utah,Brandon Robison,,-4.0,-2.0,0.0,-2.0,50.97,2026-04-29T07:55:27.777083
+238883,Information,T13,Oregon State,Nguyen Anh Minh,#24,-4.0,-2.0,-2.0,0.0,50.97,2026-04-29T07:55:27.777111
+238883,Information,T13,New Mexico,Clark Sonnenberg,,-4.0,-3.0,0.0,-1.0,50.97,2026-04-29T07:55:27.777136
+238883,Information,T16,Long Beach State,Jaden Huggins,,-3.0,-4.0,-1.0,2.0,46.9,2026-04-29T07:55:27.777162
+238883,Information,T16,New Mexico,Wyatt Provence,,-3.0,-4.0,1.0,0.0,46.9,2026-04-29T07:55:27.777187
+238883,Information,T16,New Mexico,Thayer Plewe,,-3.0,-3.0,-2.0,2.0,46.9,2026-04-29T07:55:27.777212
+238883,Information,T19,San Diego (IND),Brady Clark,,-2.0,1.0,-1.0,-2.0,43.15,2026-04-29T07:55:27.777238
+238883,Information,T19,Long Beach State (IND),Norwin Gohm,,-2.0,-2.0,-5.0,5.0,43.15,2026-04-29T07:55:27.777264
+238883,Information,T19,San Diego,Reed Arnaldo,,-2.0,-3.0,4.0,-3.0,43.15,2026-04-29T07:55:27.777290
+238883,Information,T19,San Diego,Cooper Humphreys,,-2.0,-3.0,-3.0,4.0,43.15,2026-04-29T07:55:27.777315
+238883,Information,T19,Colorado,Hunter Swanson,,-2.0,-3.0,0.0,1.0,43.15,2026-04-29T07:55:27.777341
+238883,Information,T24,UCLA,Tyler Loree,,-1.0,-2.0,-2.0,3.0,39.7,2026-04-29T07:55:27.777366
+238883,Information,T24,Oregon State,Antoine Jasmin,,-1.0,0.0,-1.0,0.0,39.7,2026-04-29T07:55:27.777391
+238883,Information,T24,San Diego,You Seong Choi,,-1.0,1.0,-2.0,0.0,39.7,2026-04-29T07:55:27.777416
+238883,Information,T27,UCLA,Josh Kim,#116,0.0,3.0,0.0,-3.0,36.52,2026-04-29T07:55:27.777445
+238883,Information,T27,Utah,Davis Johnson,,0.0,3.0,-3.0,0.0,36.52,2026-04-29T07:55:27.777469
+238883,Information,T27,Oregon State,Collin Hodgkinson,,0.0,2.0,0.0,-2.0,36.52,2026-04-29T07:55:27.777495
+238883,Information,T27,San Diego,Reid Piron,,0.0,1.0,-1.0,0.0,36.52,2026-04-29T07:55:27.777520
+238883,Information,T27,Arizona (IND),Matěj Bača,,0.0,1.0,-1.0,0.0,36.52,2026-04-29T07:55:27.777547
+238883,Information,T32,UCLA,Alex Papayoanou,,1.0,2.0,-1.0,0.0,33.6,2026-04-29T07:55:27.777573
+238883,Information,T32,Colorado,Ty Holbrook,,1.0,0.0,-1.0,2.0,33.6,2026-04-29T07:55:27.777598
+238883,Information,T32,Grand Canyon,Nixon Lauritzen,,1.0,-1.0,4.0,-2.0,33.6,2026-04-29T07:55:27.777629
+238883,Information,T32,Long Beach State,Jack Cantlay,,1.0,0.0,-1.0,2.0,33.6,2026-04-29T07:55:27.777654
+238883,Information,T36,Utah (IND),Jan Farre,,2.0,1.0,2.0,-1.0,30.92,2026-04-29T07:55:27.777683
+238883,Information,T36,Grand Canyon,Matthew Diehl,,2.0,2.0,-1.0,1.0,30.92,2026-04-29T07:55:27.777707
+238883,Information,T36,New Mexico (IND),Emil Albers,#148,2.0,-1.0,6.0,-3.0,30.92,2026-04-29T07:55:27.777735
+238883,Information,T36,Grand Canyon,Erik Rengardt,,2.0,1.0,0.0,1.0,30.92,2026-04-29T07:55:27.777759
+238883,Information,T36,Arizona State,Bowen Mauss,#110,2.0,0.0,2.0,0.0,30.92,2026-04-29T07:55:27.777789
+238883,Information,T36,Arizona State,Raul Gomez,,2.0,-4.0,4.0,2.0,30.92,2026-04-29T07:55:27.777816
+238883,Information,T36,Utah (IND),Gabriel Palacios,#107,2.0,3.0,0.0,-1.0,30.92,2026-04-29T07:55:27.777848
+238883,Information,T43,Oregon State,Rylan Johnson,,3.0,1.0,1.0,1.0,28.44,2026-04-29T07:55:27.777874
+238883,Information,T43,UCLA,Kyle An,,3.0,-2.0,1.0,4.0,28.44,2026-04-29T07:55:27.777899
+238883,Information,T45,Grand Canyon,Måns Boje,,4.0,3.0,1.0,0.0,26.17,2026-04-29T07:55:27.777925
+238883,Information,T45,Colorado,Jackson Rivera,,4.0,2.0,-2.0,4.0,26.17,2026-04-29T07:55:27.777951
+238883,Information,T45,Arizona State (IND),Bryan Newman,,4.0,3.0,2.0,-1.0,26.17,2026-04-29T07:55:27.777978
+238883,Information,T45,Utah (IND),Ivan Enguita,,4.0,-1.0,0.0,5.0,26.17,2026-04-29T07:55:27.778003
+238883,Information,T49,Utah,Jack Jerge,,5.0,6.0,0.0,-1.0,24.08,2026-04-29T07:55:27.778029
+238883,Information,T49,Grand Canyon,Gavin O'Neill,,5.0,-1.0,-1.0,7.0,24.08,2026-04-29T07:55:27.778054
+238883,Information,51,Grand Canyon (IND),Daniel Nilsson,,6.0,3.0,1.0,2.0,22.15,2026-04-29T07:55:27.778079
+238883,Information,T52,Arizona (IND),Dillon Dean,,7.0,2.0,0.0,5.0,20.38,2026-04-29T07:55:27.778105
+238883,Information,T52,UCLA (IND),Matt Yamin,,7.0,3.0,0.0,4.0,20.38,2026-04-29T07:55:27.778130
+238883,Information,T54,Oregon State,Stanley Lin,,8.0,-1.0,4.0,5.0,18.75,2026-04-29T07:55:27.778155
+238883,Information,T54,Arizona State (IND),Kent Karlstrom,,8.0,1.0,2.0,5.0,18.75,2026-04-29T07:55:27.778182
+238883,Information,T54,Colorado (IND),Tyler Long,,8.0,-2.0,5.0,5.0,18.75,2026-04-29T07:55:27.778207
+238883,Information,T54,Colorado,Parker Paxton,,8.0,1.0,6.0,1.0,18.75,2026-04-29T07:55:27.778232
+238883,Information,58,Utah,Adam Croix,,9.0,4.0,5.0,0.0,17.25,2026-04-29T07:55:27.778258
+238883,Information,T59,Arizona State (IND),Peer Wernicke,,13.0,5.0,3.0,5.0,12.36,2026-04-29T07:55:27.778283
+238883,Information,T59,Oregon State (IND),Ethan Elleraas,,13.0,6.0,4.0,3.0,12.36,2026-04-29T07:55:27.778308
+240002,Information,1,UC San Diego,Davis McDowell,,-6.0,-5.0,-1.0,0.0,75.33,2026-04-29T07:55:28.287830
+240002,Information,2,Colorado State,Alessandro Trenta,,-5.0,-4.0,-1.0,0.0,69.31,2026-04-29T07:55:28.287864
+240002,Information,3,Long Beach State,Alejandro De Castro,,-4.0,3.0,-1.0,-6.0,63.77,2026-04-29T07:55:28.287892
+240002,Information,T4,Utah Tech,Tanner Telford,,-3.0,0.0,-3.0,0.0,58.67,2026-04-29T07:55:28.287917
+240002,Information,T4,Long Beach State (IND),Steen Zeman,,-3.0,-1.0,-2.0,0.0,58.67,2026-04-29T07:55:28.287942
+240002,Information,T4,Weber State,Matthew Wilson,,-3.0,-2.0,-1.0,0.0,58.67,2026-04-29T07:55:28.287968
+240002,Information,T7,Colorado State,Jake Rodgers,,-2.0,-1.0,2.0,-3.0,53.98,2026-04-29T07:55:28.287997
+240002,Information,T7,Utah Valley,Ty Brady,,-2.0,-4.0,1.0,1.0,53.98,2026-04-29T07:55:28.288019
+240002,Information,9,Sacramento State,Gabriel Smith,,-1.0,-2.0,0.0,1.0,49.66,2026-04-29T07:55:28.288042
+240002,Information,10,UC Davis,Curtis Da Silva,,0.0,5.0,-4.0,-1.0,45.69,2026-04-29T07:55:28.288066
+240002,Information,11,Illinois State,Pietro Pontiggia,,1.0,3.0,0.0,-2.0,42.04,2026-04-29T07:55:28.288090
+240002,Information,T12,Long Beach State,Krishnav Chopraa,,2.0,1.0,1.0,0.0,38.68,2026-04-29T07:55:28.288116
+240002,Information,T12,Long Beach State,Jack Cantlay,,2.0,-1.0,-1.0,4.0,38.68,2026-04-29T07:55:28.288139
+240002,Information,T14,Utah Tech,David Liechty,,3.0,2.0,0.0,1.0,35.58,2026-04-29T07:55:28.288163
+240002,Information,T14,Weber State,Bobby Kincaid,,3.0,0.0,2.0,1.0,35.58,2026-04-29T07:55:28.288187
+240002,Information,T14,Illinois State,TJ Barger,,3.0,-1.0,3.0,1.0,35.58,2026-04-29T07:55:28.288211
+240002,Information,T14,Long Beach State,Jaden Huggins,,3.0,0.0,0.0,3.0,35.58,2026-04-29T07:55:28.288233
+240002,Information,T14,Weber State,Ryan Takeshita,,3.0,-2.0,4.0,1.0,35.58,2026-04-29T07:55:28.288256
+240002,Information,T14,Wichita State,Jose Ramirez,,3.0,0.0,5.0,-2.0,35.58,2026-04-29T07:55:28.288281
+240002,Information,T20,Utah Valley,Paxton Maxwell,,4.0,-1.0,1.0,4.0,32.74,2026-04-29T07:55:28.288303
+240002,Information,T20,Denver,Ryder Odem,,4.0,2.0,1.0,1.0,32.74,2026-04-29T07:55:28.288327
+240002,Information,T22,Denver,Jet Hernandez,,5.0,1.0,0.0,4.0,30.12,2026-04-29T07:55:28.288352
+240002,Information,T22,UC Davis,Lequan Wang,,5.0,5.0,0.0,0.0,30.12,2026-04-29T07:55:28.288378
+240002,Information,T22,Colorado State (IND),Florentin Meller,,5.0,3.0,2.0,0.0,30.12,2026-04-29T07:55:28.288404
+240002,Information,T22,UC San Diego,Francis Catalano,,5.0,4.0,1.0,0.0,30.12,2026-04-29T07:55:28.288430
+240002,Information,T26,UC Davis (IND),Ivan Sablan,,6.0,0.0,1.0,5.0,27.71,2026-04-29T07:55:28.288457
+240002,Information,T26,Utah Tech,Frank Miao,,6.0,1.0,-3.0,8.0,27.71,2026-04-29T07:55:28.288486
+240002,Information,T26,UC San Diego,Nathan Tseng,,6.0,-4.0,6.0,4.0,27.71,2026-04-29T07:55:28.288509
+240002,Information,T26,UC Santa Barbara,Nick Waldock,,6.0,0.0,4.0,2.0,27.71,2026-04-29T07:55:28.288532
+240002,Information,T26,CSU Fullerton,Giacoma Comerio,,6.0,4.0,1.0,1.0,27.71,2026-04-29T07:55:28.288556
+240002,Information,T26,Colorado State,Charlie Doyle,,6.0,2.0,3.0,1.0,27.71,2026-04-29T07:55:28.288578
+240002,Information,T32,Utah Valley,Colby Hutchens,,7.0,1.0,2.0,4.0,25.5,2026-04-29T07:55:28.288600
+240002,Information,T32,Long Beach State,Norwin Gohm,,7.0,5.0,0.0,2.0,25.5,2026-04-29T07:55:28.288624
+240002,Information,T34,Wyoming (IND),Conner Scheich,,8.0,2.0,1.0,5.0,23.46,2026-04-29T07:55:28.288648
+240002,Information,T34,Sacramento State,Max Thomas,,8.0,1.0,4.0,3.0,23.46,2026-04-29T07:55:28.288674
+240002,Information,T36,Wichita State,Michael Robson,,9.0,5.0,3.0,1.0,21.58,2026-04-29T07:55:28.288696
+240002,Information,T36,Colorado (IND),Zeqian 'Michael' Fang,,9.0,2.0,4.0,3.0,21.58,2026-04-29T07:55:28.288718
+240002,Information,T36,CSU Fullerton,nick benton,,9.0,7.0,0.0,2.0,21.58,2026-04-29T07:55:28.288742
+240002,Information,T39,UC Santa Barbara,Jack Watters,,10.0,3.0,6.0,1.0,19.86,2026-04-29T07:55:28.288764
+240002,Information,T39,Utah State,Chase Goetschel,,10.0,2.0,5.0,3.0,19.86,2026-04-29T07:55:28.288789
+240002,Information,T39,Colorado State,Owen Mullen,,10.0,8.0,-2.0,4.0,19.86,2026-04-29T07:55:28.288811
+240002,Information,T39,UC Davis,Ryan Firpo,,10.0,5.0,2.0,3.0,19.86,2026-04-29T07:55:28.288833
+240002,Information,T39,Colorado State,Charlie Tucker,,10.0,1.0,5.0,4.0,19.86,2026-04-29T07:55:28.288855
+240002,Information,T39,UC San Diego,Justin Gill,,10.0,3.0,3.0,4.0,19.86,2026-04-29T07:55:28.288877
+240002,Information,T39,Utah Tech,Jackson Rhees,,10.0,9.0,3.0,-2.0,19.86,2026-04-29T07:55:28.288901
+240002,Information,T39,Denver,Willis Panzarello,,10.0,4.0,5.0,1.0,19.86,2026-04-29T07:55:28.288924
+240002,Information,T47,Sacramento State (IND),Zachary Matzke,,11.0,2.0,4.0,5.0,18.27,2026-04-29T07:55:28.288947
+240002,Information,T47,Denver,Jack Dozer,,11.0,7.0,3.0,1.0,18.27,2026-04-29T07:55:28.288971
+240002,Information,T47,Denver,Arthur Akpinar,,11.0,3.0,6.0,2.0,18.27,2026-04-29T07:55:28.288994
+240002,Information,T47,Sacramento State,Zach Mate,,11.0,3.0,5.0,3.0,18.27,2026-04-29T07:55:28.289017
+240002,Information,T47,UC Santa Barbara,Dylan Ma,,11.0,2.0,4.0,5.0,18.27,2026-04-29T07:55:28.289039
+240002,Information,T47,UC Davis,Shaunak Nair,,11.0,5.0,1.0,5.0,18.27,2026-04-29T07:55:28.289060
+240002,Information,T53,CSU Northridge,Bryson Barnes,,12.0,2.0,7.0,3.0,16.81,2026-04-29T07:55:28.289082
+240002,Information,T53,Wyoming,Kristof Panke,,12.0,6.0,5.0,1.0,16.81,2026-04-29T07:55:28.289105
+240002,Information,T53,Wyoming,Brody Leid,,12.0,3.0,5.0,4.0,16.81,2026-04-29T07:55:28.289128
+240002,Information,T53,Utah Tech,Luke Schone,,12.0,3.0,3.0,6.0,16.81,2026-04-29T07:55:28.289152
+240002,Information,T57,Colorado (IND),Casey Kosney,,13.0,5.0,5.0,3.0,15.46,2026-04-29T07:55:28.289174
+240002,Information,T57,Colorado State (IND),Elijah Knudsen,,13.0,3.0,7.0,3.0,15.46,2026-04-29T07:55:28.289195
+240002,Information,T57,Weber State,Ty Anderson,,13.0,7.0,0.0,6.0,15.46,2026-04-29T07:55:28.289224
+240002,Information,T60,Sacramento State,Jai Bahl,,14.0,6.0,2.0,6.0,14.23,2026-04-29T07:55:28.289247
+240002,Information,T60,Illinois State,Francis Bautista,,14.0,9.0,2.0,3.0,14.23,2026-04-29T07:55:28.289271
+240002,Information,T60,Utah Valley,JJ Tomsick,,14.0,11.0,1.0,2.0,14.23,2026-04-29T07:55:28.289295
+240002,Information,T63,Utah Valley,Isaiah Ellis,,15.0,5.0,5.0,5.0,13.09,2026-04-29T07:55:28.289317
+240002,Information,T63,CSU Northridge,Liam Judkins,,15.0,2.0,8.0,5.0,13.09,2026-04-29T07:55:28.289340
+240002,Information,T63,Wyoming (IND),Ryker Lind,,15.0,7.0,4.0,4.0,13.09,2026-04-29T07:55:28.289364
+240002,Information,T66,Illinois State,Max Faucquez,,16.0,6.0,7.0,3.0,12.04,2026-04-29T07:55:28.289388
+240002,Information,T66,Illinois State,Aiden Cudney,,16.0,9.0,5.0,2.0,12.04,2026-04-29T07:55:28.289409
+240002,Information,T66,UC San Diego,Hanjie Yu,,16.0,4.0,8.0,4.0,12.04,2026-04-29T07:55:28.289433
+240002,Information,T66,Wichita State,Mitchell Revie,,16.0,4.0,10.0,2.0,12.04,2026-04-29T07:55:28.289455
+240002,Information,T66,CSU Fullerton,Dante Lazare,,16.0,7.0,0.0,9.0,12.04,2026-04-29T07:55:28.289479
+240002,Information,T71,Utah State,Noah Moody,,17.0,4.0,7.0,6.0,11.08,2026-04-29T07:55:28.289502
+240002,Information,T71,Utah State,Zach Skinner,,17.0,5.0,7.0,5.0,11.08,2026-04-29T07:55:28.289526
+240002,Information,T73,Wichita State,Jace Chaney,,18.0,6.0,4.0,8.0,10.19,2026-04-29T07:55:28.289547
+240002,Information,T73,CSU Northridge,Dominic De Luca,,18.0,4.0,11.0,3.0,10.19,2026-04-29T07:55:28.289569
+240002,Information,T73,UC Davis,Louis Grizot,,18.0,7.0,4.0,7.0,10.19,2026-04-29T07:55:28.289592
+240002,Information,T76,Utah Valley (IND),Andrew Hawk,,19.0,6.0,6.0,7.0,9.38,2026-04-29T07:55:28.289614
+240002,Information,T76,Wichita State,Rhett O'Rear,,19.0,5.0,7.0,7.0,9.38,2026-04-29T07:55:28.289636
+240002,Information,T78,UC Santa Barbara,Ryan Gay,,20.0,7.0,4.0,9.0,8.63,2026-04-29T07:55:28.289659
+240002,Information,T78,UC Santa Barbara,Jackson Turner,,20.0,9.0,6.0,5.0,8.63,2026-04-29T07:55:28.289681
+240002,Information,T78,CSU Northridge,Tavin Boman,,20.0,11.0,4.0,5.0,8.63,2026-04-29T07:55:28.289703
+240002,Information,T81,Utah State,Hunter Hall,,21.0,9.0,6.0,6.0,7.94,2026-04-29T07:55:28.289726
+240002,Information,T81,Sacramento State,Patrick Dumag,,21.0,13.0,6.0,2.0,7.94,2026-04-29T07:55:28.289749
+240002,Information,T83,Wyoming,Kellen Ball,,22.0,1.0,9.0,12.0,7.3,2026-04-29T07:55:28.289772
+240002,Information,T83,Weber State,Markus Nanpei,,22.0,6.0,11.0,5.0,7.3,2026-04-29T07:55:28.289796
+240002,Information,T83,Utah State,Toby Heider,,22.0,10.0,5.0,7.0,7.3,2026-04-29T07:55:28.289819
+240002,Information,T83,CSU Northridge,Nick Fry,,22.0,4.0,13.0,5.0,7.3,2026-04-29T07:55:28.289841
+240002,Information,87,Wyoming,Austin Barry,,23.0,12.0,7.0,4.0,6.72,2026-04-29T07:55:28.289864
+240002,Information,T88,CSU Fullerton,william Tanaka,,24.0,4.0,9.0,11.0,6.18,2026-04-29T07:55:28.289887
+240002,Information,T88,CSU Fullerton,lance nguyen,,24.0,10.0,5.0,9.0,6.18,2026-04-29T07:55:28.289910
+240002,Information,90,Colorado State (IND),Matthew Wilkinson,,25.0,9.0,7.0,9.0,5.69,2026-04-29T07:55:28.289933
+240002,Information,91,Wyoming,Brody Knowlton,,29.0,14.0,6.0,9.0,4.08,2026-04-29T07:55:28.289955
+239974,Information,1,New Mexico (IND),Emil Albers,,-13.0,-5.0,-4.0,-4.0,99.14,2026-04-29T07:55:28.782716
+239974,Information,2,Grand Canyon,Matthew Diehl,,-12.0,-6.0,-2.0,-4.0,91.21,2026-04-29T07:55:28.782751
+239974,Information,3,Oral Roberts,Ben Gratzl,,-9.0,-5.0,-3.0,-1.0,71.03,2026-04-29T07:55:28.782774
+239974,Information,T4,Long Beach State,Jack Cantlay,,-7.0,1.0,-3.0,-5.0,60.13,2026-04-29T07:55:28.782797
+239974,Information,T4,Southern California,Nicolas Dominguez,,-7.0,-1.0,-4.0,-2.0,60.13,2026-04-29T07:55:28.782819
+239974,Information,T4,Long Beach State,Jaden Huggins,,-7.0,-2.0,-3.0,-2.0,60.13,2026-04-29T07:55:28.782840
+239974,Information,T7,Fresno State,Zack Tarter,,-6.0,-1.0,-2.0,-3.0,55.32,2026-04-29T07:55:28.782867
+239974,Information,T7,Fresno State,Von Wasson,,-6.0,-1.0,-3.0,-2.0,55.32,2026-04-29T07:55:28.782889
+239974,Information,T7,Colorado,Ty Holbrook,,-6.0,-4.0,-3.0,1.0,55.32,2026-04-29T07:55:28.782910
+239974,Information,T7,New Mexico,Thayer Plewe,,-6.0,-4.0,-3.0,1.0,55.32,2026-04-29T07:55:28.782932
+239974,Information,T11,Southern California,Jose Antonio Safa,,-5.0,-5.0,2.0,-2.0,50.9,2026-04-29T07:55:28.782953
+239974,Information,T11,Long Beach State,Steen Zeman,,-5.0,-2.0,-2.0,-1.0,50.9,2026-04-29T07:55:28.782975
+239974,Information,T11,UTEP,Dylan Teeter,,-5.0,-1.0,0.0,-4.0,50.9,2026-04-29T07:55:28.782997
+239974,Information,T11,San Francisco,Renato Naula,,-5.0,-1.0,-3.0,-1.0,50.9,2026-04-29T07:55:28.783018
+239974,Information,T15,Fresno State,Jaden Hunter,,-4.0,-2.0,0.0,-2.0,46.83,2026-04-29T07:55:28.783039
+239974,Information,T15,Colorado State,Jake Rodgers,,-4.0,0.0,-3.0,-1.0,46.83,2026-04-29T07:55:28.783060
+239974,Information,T15,Southern California,Jaden Dumdumaya,,-4.0,-5.0,1.0,0.0,46.83,2026-04-29T07:55:28.783081
+239974,Information,T15,Arkansas State,Jake Wallis,,-4.0,-4.0,-1.0,1.0,46.83,2026-04-29T07:55:28.783102
+239974,Information,T19,Long Beach State,Krishnav Nikhil Chopraa,,-3.0,0.0,0.0,-3.0,43.08,2026-04-29T07:55:28.783123
+239974,Information,T19,New Mexico,Mesa Falleur,,-3.0,-3.0,2.0,-2.0,43.08,2026-04-29T07:55:28.783144
+239974,Information,T19,North Texas,Mitchell Maier,,-3.0,1.0,-2.0,-2.0,43.08,2026-04-29T07:55:28.783165
+239974,Information,T19,Colorado,Parker Paxton,,-3.0,-1.0,-1.0,-1.0,43.08,2026-04-29T07:55:28.783186
+239974,Information,T19,UTEP,Pat Foley,,-3.0,-1.0,0.0,-2.0,43.08,2026-04-29T07:55:28.783208
+239974,Information,T24,Eastern Michigan,Joshua Hess,,-2.0,0.0,-1.0,-1.0,39.64,2026-04-29T07:55:28.783229
+239974,Information,T24,Colorado,Brandon Knight,,-2.0,3.0,-6.0,1.0,39.64,2026-04-29T07:55:28.783250
+239974,Information,T24,Arkansas State,Thomas Schmidt,,-2.0,3.0,-4.0,-1.0,39.64,2026-04-29T07:55:28.783271
+239974,Information,T27,Colorado,Hunter Swanson,,-1.0,6.0,-7.0,0.0,36.47,2026-04-29T07:55:28.783290
+239974,Information,T27,Santa Clara,JP Odland,,-1.0,1.0,-3.0,1.0,36.47,2026-04-29T07:55:28.783310
+239974,Information,T27,Southern California,Jack Buchanan,,-1.0,2.0,-5.0,2.0,36.47,2026-04-29T07:55:28.783331
+239974,Information,T27,Southern California (IND),Luke Stock,,-1.0,-4.0,-1.0,4.0,36.47,2026-04-29T07:55:28.783351
+239974,Information,T27,UTEP,Braden Smith,,-1.0,1.0,-1.0,-1.0,36.47,2026-04-29T07:55:28.783370
+239974,Information,T27,Tarleton State,Luis Buech,,-1.0,-2.0,0.0,1.0,36.47,2026-04-29T07:55:28.783392
+239974,Information,T27,New Mexico,Johnnie Clark,,-1.0,-3.0,3.0,-1.0,36.47,2026-04-29T07:55:28.783412
+239974,Information,T27,Rice,Lukas Boandl,,-1.0,-1.0,-2.0,2.0,36.47,2026-04-29T07:55:28.783433
+239974,Information,T27,New Mexico,Oliver Cage,,-1.0,0.0,-4.0,3.0,36.47,2026-04-29T07:55:28.783453
+239974,Information,T27,Santa Clara,Matt Robles,,-1.0,1.0,1.0,-3.0,36.47,2026-04-29T07:55:28.783473
+239974,Information,T27,Rice,Henry Daly,,-1.0,-4.0,-1.0,4.0,36.47,2026-04-29T07:55:28.783493
+239974,Information,T27,Santa Clara,Jack Hayden,,-1.0,0.0,-3.0,2.0,36.47,2026-04-29T07:55:28.783513
+239974,Information,T27,San Francisco,Henry Styles,,-1.0,-2.0,0.0,1.0,36.47,2026-04-29T07:55:28.783533
+239974,Information,T27,Grand Canyon,Nixon Lauritzen,,-1.0,0.0,0.0,-1.0,36.47,2026-04-29T07:55:28.783553
+239974,Information,T27,New Mexico,Wyatt Provence,,-1.0,-2.0,-1.0,2.0,36.47,2026-04-29T07:55:28.783574
+239974,Information,T27,New Mexico State,Mateo Payan,,-1.0,3.0,-3.0,-1.0,36.47,2026-04-29T07:55:28.783594
+239974,Information,T27,Tarleton State,Alvaro Pastor,,-1.0,-2.0,1.0,0.0,36.47,2026-04-29T07:55:28.783616
+239974,Information,T44,Stetson,Gaspar Glaudas,,0.0,1.0,-1.0,0.0,33.55,2026-04-29T07:55:28.783636
+239974,Information,T44,Long Beach State,Alejandro De Castro,,0.0,0.0,0.0,0.0,33.55,2026-04-29T07:55:28.783656
+239974,Information,T44,Oral Roberts,Jorge Sanchez Gutierrez,,0.0,3.0,-2.0,-1.0,33.55,2026-04-29T07:55:28.783678
+239974,Information,T44,Stetson,Matthis Lefevre,,0.0,-1.0,4.0,-3.0,33.55,2026-04-29T07:55:28.783699
+239974,Information,T48,Santa Clara,Kevin Hollomon,,1.0,-3.0,-1.0,5.0,30.87,2026-04-29T07:55:28.783721
+239974,Information,T48,Grand Canyon (IND),Måns Boje,,1.0,2.0,2.0,-3.0,30.87,2026-04-29T07:55:28.783742
+239974,Information,T48,Colorado State,Charlie Doyle,,1.0,-1.0,-1.0,3.0,30.87,2026-04-29T07:55:28.783762
+239974,Information,T48,Eastern Michigan,Charlie Box,,1.0,1.0,3.0,-3.0,30.87,2026-04-29T07:55:28.783782
+239974,Information,T48,North Texas,Kalle Svederman,,1.0,6.0,-3.0,-2.0,30.87,2026-04-29T07:55:28.783802
+239974,Information,T48,New Mexico State,Javier Delgadillo,,1.0,2.0,-3.0,2.0,30.87,2026-04-29T07:55:28.783822
+239974,Information,T48,San Francisco,Theo Anderson,,1.0,-1.0,1.0,1.0,30.87,2026-04-29T07:55:28.783841
+239974,Information,T55,Colorado,Jackson Rivera,,2.0,3.0,0.0,-1.0,28.4,2026-04-29T07:55:28.783863
+239974,Information,T55,Colorado (IND),Tyler Long,,2.0,0.0,2.0,0.0,28.4,2026-04-29T07:55:28.783884
+239974,Information,T55,Grand Canyon,Daniel Nilsson,,2.0,0.0,-5.0,7.0,28.4,2026-04-29T07:55:28.783904
+239974,Information,T55,San Francisco,Svante Palmgren,,2.0,1.0,3.0,-2.0,28.4,2026-04-29T07:55:28.783924
+239974,Information,T55,Santa Clara (IND),Emil Nielsen,,2.0,3.0,1.0,-2.0,28.4,2026-04-29T07:55:28.783944
+239974,Information,T55,Tarleton State,Kellen Young,,2.0,1.0,-4.0,5.0,28.4,2026-04-29T07:55:28.783965
+239974,Information,T55,Stetson,Simon Engman,,2.0,1.0,-4.0,5.0,28.4,2026-04-29T07:55:28.783985
+239974,Information,T62,Oral Roberts,Philip Voetmann,,3.0,4.0,-3.0,2.0,26.13,2026-04-29T07:55:28.784005
+239974,Information,T62,Eastern Michigan,Tim Chan,,3.0,3.0,-4.0,4.0,26.13,2026-04-29T07:55:28.784025
+239974,Information,T62,Tarleton State,Juan Ballester,,3.0,1.0,0.0,2.0,26.13,2026-04-29T07:55:28.784047
+239974,Information,T62,North Texas,Noah Blaickner,,3.0,-2.0,1.0,4.0,26.13,2026-04-29T07:55:28.784066
+239974,Information,T62,Long Beach State (IND),Tiger Tahvildari,,3.0,3.0,2.0,-2.0,26.13,2026-04-29T07:55:28.784088
+239974,Information,T62,Rice,Daniel Zou,,3.0,0.0,2.0,1.0,26.13,2026-04-29T07:55:28.784108
+239974,Information,T62,Santa Clara,Calder Overfelt,,3.0,3.0,-4.0,4.0,26.13,2026-04-29T07:55:28.784127
+239974,Information,T69,Stetson,Rasmus Ronnberg,,4.0,1.0,0.0,3.0,24.04,2026-04-29T07:55:28.784147
+239974,Information,T69,North Texas,Rayhan Latief,,4.0,1.0,1.0,2.0,24.04,2026-04-29T07:55:28.784169
+239974,Information,T71,Arkansas State,Jake Lile,,5.0,1.0,1.0,3.0,22.12,2026-04-29T07:55:28.784188
+239974,Information,T71,Oral Roberts,Christian Johnson,,5.0,4.0,-2.0,3.0,22.12,2026-04-29T07:55:28.784208
+239974,Information,T71,Colorado State,Alessandro Trenta,,5.0,4.0,0.0,1.0,22.12,2026-04-29T07:55:28.784229
+239974,Information,T71,Arkansas State,Chris Somerfield,,5.0,3.0,-1.0,3.0,22.12,2026-04-29T07:55:28.784249
+239974,Information,T71,UTEP,Marc Keller,,5.0,6.0,-2.0,1.0,22.12,2026-04-29T07:55:28.784269
+239974,Information,T76,Eastern Michigan,Robby Turnbull,,6.0,3.0,1.0,2.0,20.35,2026-04-29T07:55:28.784289
+239974,Information,T76,UTEP,Alexandre Godin,,6.0,0.0,-2.0,8.0,20.35,2026-04-29T07:55:28.784309
+239974,Information,T76,Tarleton State,Maximilian Bjornstrom,,6.0,1.0,0.0,5.0,20.35,2026-04-29T07:55:28.784331
+239974,Information,T79,New Mexico State,Evaristo Mariscal,,7.0,0.0,6.0,1.0,18.72,2026-04-29T07:55:28.784352
+239974,Information,T79,Grand Canyon,Campbell Kerr,,7.0,-2.0,3.0,6.0,18.72,2026-04-29T07:55:28.784371
+239974,Information,T79,North Texas,Alex Huang,,7.0,4.0,1.0,2.0,18.72,2026-04-29T07:55:28.784391
+239974,Information,T82,Arkansas State,Milan Reed,,8.0,7.0,0.0,1.0,17.23,2026-04-29T07:55:28.784412
+239974,Information,T82,New Mexico (IND),Alvaro Portillo,,8.0,6.0,1.0,1.0,17.23,2026-04-29T07:55:28.784432
+239974,Information,T82,Fresno State,Chris Bettencourt,,8.0,0.0,4.0,4.0,17.23,2026-04-29T07:55:28.784453
+239974,Information,T82,Fresno State,James Watney,,8.0,2.0,3.0,3.0,17.23,2026-04-29T07:55:28.784474
+239974,Information,T86,Rice,Reggie Zhu,,9.0,5.0,0.0,4.0,15.85,2026-04-29T07:55:28.784494
+239974,Information,T86,Colorado State,Charlie Tucker,,9.0,1.0,2.0,6.0,15.85,2026-04-29T07:55:28.784514
+239974,Information,T88,New Mexico State,Ethan Klose,,10.0,7.0,4.0,-1.0,14.58,2026-04-29T07:55:28.784534
+239974,Information,T88,UTEP (IND),Colin Price,,10.0,3.0,2.0,5.0,14.58,2026-04-29T07:55:28.784555
+239974,Information,T88,Arkansas State (IND),Viggo Hed,,10.0,6.0,1.0,3.0,14.58,2026-04-29T07:55:28.784574
+239974,Information,T88,Oral Roberts,Gustav Liljeberg,,10.0,1.0,2.0,7.0,14.58,2026-04-29T07:55:28.784594
+239974,Information,T88,San Francisco,William Svanström,,10.0,4.0,0.0,6.0,14.58,2026-04-29T07:55:28.784615
+239974,Information,T93,Grand Canyon,Erik Rengardt,,11.0,3.0,6.0,2.0,13.42,2026-04-29T07:55:28.784634
+239974,Information,T93,Eastern Michigan,Carlos Fernandez Mortera,,11.0,4.0,2.0,5.0,13.42,2026-04-29T07:55:28.784655
+239974,Information,T95,Colorado State,Owen Mullen,,12.0,8.0,0.0,4.0,12.34,2026-04-29T07:55:28.784675
+239974,Information,T95,Southern California,Raghav Gulati,,12.0,6.0,4.0,2.0,12.34,2026-04-29T07:55:28.784695
+239974,Information,97,New Mexico State,Anthony Lara,,13.0,2.0,5.0,6.0,11.36,2026-04-29T07:55:28.784716
+239974,Information,T98,Rice,Davis Byrd,,14.0,5.0,3.0,6.0,10.45,2026-04-29T07:55:28.784736
+239974,Information,T98,Stetson,Jackson Hicks,,14.0,4.0,3.0,7.0,10.45,2026-04-29T07:55:28.784756
+239974,Information,100,Oral Roberts (IND),Sam Morris,,15.0,4.0,2.0,9.0,9.61,2026-04-29T07:55:28.784777
+238697,Information,1,Arkansas State,Thomas Schmidt,,-22.0,-8.0,-9.0,-5.0,140.93,2026-04-29T07:55:29.314427
+238697,Information,2,Long Beach State,Steen Zeman,,-14.0,-5.0,-7.0,-2.0,72.35,2026-04-29T07:55:29.314458
+238697,Information,T3,Long Beach State,Alejandro De Castro,,-13.0,-5.0,-4.0,-4.0,66.57,2026-04-29T07:55:29.314482
+238697,Information,T3,Colorado,Parker Paxton,,-13.0,-6.0,-3.0,-4.0,66.57,2026-04-29T07:55:29.314504
+238697,Information,T5,Colorado,Brandon Knight,,-11.0,-5.0,-2.0,-4.0,56.35,2026-04-29T07:55:29.314528
+238697,Information,T5,Northern Colorado,Cooper Tate,,-11.0,-6.0,-5.0,0.0,56.35,2026-04-29T07:55:29.314550
+238697,Information,T7,Colorado,Ty Holbrook,,-10.0,-6.0,-2.0,-2.0,51.84,2026-04-29T07:55:29.314574
+238697,Information,T7,UTEP,Marc Keller,,-10.0,-2.0,-6.0,-2.0,51.84,2026-04-29T07:55:29.314596
+238697,Information,T9,Boise State,Cole Rueck,,-9.0,-8.0,1.0,-2.0,47.7,2026-04-29T07:55:29.314616
+238697,Information,T9,Arkansas State,Jake Wallis,,-9.0,-4.0,-5.0,0.0,47.7,2026-04-29T07:55:29.314638
+238697,Information,T9,Wyoming,Brody Leid,,-9.0,-2.0,-3.0,-4.0,47.7,2026-04-29T07:55:29.314662
+238697,Information,T12,Southern Illinois,Anthony De Schutter,,-8.0,-2.0,-2.0,-4.0,43.88,2026-04-29T07:55:29.314686
+238697,Information,T12,Northern Colorado,Kaelen Dulany,,-8.0,-1.0,-2.0,-5.0,43.88,2026-04-29T07:55:29.314709
+238697,Information,T14,Colorado,Tyler Long,,-7.0,-3.0,-1.0,-3.0,40.38,2026-04-29T07:55:29.314732
+238697,Information,T14,Loyola Marymount,Trevor Algya,,-7.0,-3.0,-3.0,-1.0,40.38,2026-04-29T07:55:29.314755
+238697,Information,T14,Creighton,Grant Feldman,,-7.0,-4.0,1.0,-4.0,40.38,2026-04-29T07:55:29.314776
+238697,Information,T14,Loyola Marymount,Daniel Bullen,,-7.0,-2.0,-2.0,-3.0,40.38,2026-04-29T07:55:29.314798
+238697,Information,T14,Tarleton State,Alvaro Pastor,,-7.0,-2.0,0.0,-5.0,40.38,2026-04-29T07:55:29.314824
+238697,Information,T14,Southern Illinois,Michael Mikus,,-7.0,-3.0,-3.0,-1.0,40.38,2026-04-29T07:55:29.314846
+238697,Information,T14,Boise State,Reese Knox,,-7.0,-2.0,-2.0,-3.0,40.38,2026-04-29T07:55:29.314868
+238697,Information,T21,Eastern Washington,Cal Anderson,,-6.0,1.0,-3.0,-4.0,37.15,2026-04-29T07:55:29.314890
+238697,Information,T21,UC Irvine,Junting Yu,,-6.0,-3.0,-3.0,0.0,37.15,2026-04-29T07:55:29.314912
+238697,Information,T21,Long Beach State,Jack Cantlay,,-6.0,-1.0,-4.0,-1.0,37.15,2026-04-29T07:55:29.314934
+238697,Information,T21,Long Beach State,Krishnav Nikhil Chopraa,,-6.0,-1.0,-4.0,-1.0,37.15,2026-04-29T07:55:29.314956
+238697,Information,T21,Texas State,Ben Loveard,,-6.0,-1.0,-2.0,-3.0,37.15,2026-04-29T07:55:29.314978
+238697,Information,T21,Creighton,Owen Price,,-6.0,-3.0,-1.0,-2.0,37.15,2026-04-29T07:55:29.315000
+238697,Information,T27,Colorado (IND),Jackson Rivera,,-5.0,4.0,-6.0,-3.0,34.18,2026-04-29T07:55:29.315023
+238697,Information,T27,Wyoming,Ryker Lind,,-5.0,1.0,-6.0,0.0,34.18,2026-04-29T07:55:29.315046
+238697,Information,T27,UTEP,Dylan Teeter,,-5.0,1.0,-1.0,-5.0,34.18,2026-04-29T07:55:29.315068
+238697,Information,T27,Long Beach State,Jaden Huggins,,-5.0,1.0,-5.0,-1.0,34.18,2026-04-29T07:55:29.315090
+238697,Information,T27,Wyoming,Kristof Panke,,-5.0,-3.0,-1.0,-1.0,34.18,2026-04-29T07:55:29.315111
+238697,Information,T27,Arkansas State,Chris Somerfield,,-5.0,-1.0,-2.0,-2.0,34.18,2026-04-29T07:55:29.315133
+238697,Information,T27,Loyola Marymount,Louie Liu,,-5.0,0.0,-1.0,-4.0,34.18,2026-04-29T07:55:29.315155
+238697,Information,T27,Southern Illinois,Blake Saffell,,-5.0,-6.0,2.0,-1.0,34.18,2026-04-29T07:55:29.315176
+238697,Information,T35,Southern Illinois,Jaeseung Na,,-4.0,-8.0,3.0,1.0,31.44,2026-04-29T07:55:29.315198
+238697,Information,T35,Colorado (IND),Zeqian 'Michael' Fang,,-4.0,-2.0,1.0,-3.0,31.44,2026-04-29T07:55:29.315220
+238697,Information,T35,UTEP,Alexandre Godin,,-4.0,-2.0,0.0,-2.0,31.44,2026-04-29T07:55:29.315242
+238697,Information,T35,Colorado (IND),Casey Kosney,,-4.0,1.0,-4.0,-1.0,31.44,2026-04-29T07:55:29.315267
+238697,Information,T35,Texas State,Bryce Womack,,-4.0,-2.0,-1.0,-1.0,31.44,2026-04-29T07:55:29.315289
+238697,Information,T35,UTEP,Pat Foley,,-4.0,0.0,0.0,-4.0,31.44,2026-04-29T07:55:29.315311
+238697,Information,T35,Arkansas State,Jake Lile,,-4.0,0.0,-2.0,-2.0,31.44,2026-04-29T07:55:29.315332
+238697,Information,T42,Texas State,Jaxon Donaldson,,-3.0,-6.0,2.0,1.0,28.93,2026-04-29T07:55:29.315354
+238697,Information,T42,Arkansas State,Milan Reed,,-3.0,1.0,-2.0,-2.0,28.93,2026-04-29T07:55:29.315375
+238697,Information,T44,Tarleton State,Maximilian Bjornstrom,,-2.0,-4.0,-1.0,3.0,26.62,2026-04-29T07:55:29.315398
+238697,Information,T44,Loyola Marymount,Pablo Garcia Terol,,-2.0,1.0,-1.0,-2.0,26.62,2026-04-29T07:55:29.315419
+238697,Information,T44,Creighton,Brock Kuhlman,,-2.0,-1.0,-2.0,1.0,26.62,2026-04-29T07:55:29.315441
+238697,Information,T44,Sacramento State,Jacob Aberle,,-2.0,-2.0,3.0,-3.0,26.62,2026-04-29T07:55:29.315462
+238697,Information,T44,Loyola Marymount,Nateeshvar Anatha Ganesh,,-2.0,-2.0,2.0,-2.0,26.62,2026-04-29T07:55:29.315484
+238697,Information,T44,Gonzaga,Jayden Lizama,,-2.0,-2.0,1.0,-1.0,26.62,2026-04-29T07:55:29.315506
+238697,Information,T44,Sacramento State,Max Thomas,,-2.0,2.0,-1.0,-3.0,26.62,2026-04-29T07:55:29.315528
+238697,Information,T44,Colorado,Hunter Swanson,,-2.0,-2.0,0.0,0.0,26.62,2026-04-29T07:55:29.315549
+238697,Information,T52,UTEP,Braden Smith,,-1.0,-1.0,-1.0,1.0,24.49,2026-04-29T07:55:29.315571
+238697,Information,T52,Southern Illinois,Ben Keil,,-1.0,-1.0,0.0,0.0,24.49,2026-04-29T07:55:29.315592
+238697,Information,T52,Denver,Willis Panzarello,,-1.0,-2.0,1.0,0.0,24.49,2026-04-29T07:55:29.315616
+238697,Information,T52,Sacramento State,Mason Benbrook,,-1.0,2.0,0.0,-3.0,24.49,2026-04-29T07:55:29.315638
+238697,Information,T52,Eastern Washington,Hogan Park,,-1.0,3.0,-3.0,-1.0,24.49,2026-04-29T07:55:29.315659
+238697,Information,T52,Gonzaga,Guillermo Polo Bodart,,-1.0,2.0,-2.0,-1.0,24.49,2026-04-29T07:55:29.315680
+238697,Information,T52,Tarleton State,Luis Buech,,-1.0,1.0,0.0,-2.0,24.49,2026-04-29T07:55:29.315704
+238697,Information,T59,Sacramento State,Zach Mate,,0.0,2.0,0.0,-2.0,22.53,2026-04-29T07:55:29.315726
+238697,Information,T59,UC Irvine,Rei Harashima,,0.0,-4.0,0.0,4.0,22.53,2026-04-29T07:55:29.315747
+238697,Information,T59,Gonzaga,Charlie Olson,,0.0,1.0,-1.0,0.0,22.53,2026-04-29T07:55:29.315769
+238697,Information,T59,Utah State,Noah Moody,,0.0,0.0,-1.0,1.0,22.53,2026-04-29T07:55:29.315791
+238697,Information,T63,Denver,Jack Dozer,,1.0,-1.0,2.0,0.0,20.73,2026-04-29T07:55:29.315813
+238697,Information,T63,Wyoming (IND),Brody Knowlton,,1.0,-2.0,4.0,-1.0,20.73,2026-04-29T07:55:29.315837
+238697,Information,T63,Wyoming,Conner Scheich,,1.0,2.0,2.0,-3.0,20.73,2026-04-29T07:55:29.315860
+238697,Information,66,Denver,Zander Grant,,2.0,2.0,1.0,-1.0,19.07,2026-04-29T07:55:29.315882
+238697,Information,T67,UC Irvine,Owen Davis-Piger,,3.0,0.0,4.0,-1.0,17.55,2026-04-29T07:55:29.315904
+238697,Information,T67,Texas State,Brannan Cox,,3.0,2.0,0.0,1.0,17.55,2026-04-29T07:55:29.315925
+238697,Information,T67,Eastern Washington,Zachary Miller,,3.0,-1.0,1.0,3.0,17.55,2026-04-29T07:55:29.315946
+238697,Information,T67,Tarleton State,Drew Ironside,,3.0,1.0,-1.0,3.0,17.55,2026-04-29T07:55:29.315969
+238697,Information,T71,Sacramento State,Gabriel Smith,,4.0,-2.0,-1.0,7.0,16.14,2026-04-29T07:55:29.315991
+238697,Information,T71,Denver,Ryder Odem,,4.0,-3.0,7.0,0.0,16.14,2026-04-29T07:55:29.316014
+238697,Information,T73,Creighton,Jacob Kutner,,5.0,4.0,-1.0,2.0,14.85,2026-04-29T07:55:29.316036
+238697,Information,T73,Denver,Arthur Akpinar,,5.0,1.0,2.0,2.0,14.85,2026-04-29T07:55:29.316059
+238697,Information,T73,Gonzaga,Michael Vienneau,,5.0,0.0,0.0,5.0,14.85,2026-04-29T07:55:29.316080
+238697,Information,T73,Utah State,Zach Skinner,,5.0,6.0,3.0,-4.0,14.85,2026-04-29T07:55:29.316103
+238697,Information,T77,Boise State,Gavyn Knight,,6.0,2.0,1.0,3.0,13.67,2026-04-29T07:55:29.316125
+238697,Information,T77,Utah State,Chase Goetschel,,6.0,0.0,-2.0,8.0,13.67,2026-04-29T07:55:29.316150
+238697,Information,T77,Eastern Washington,Lucas Hughes,,6.0,2.0,0.0,4.0,13.67,2026-04-29T07:55:29.316172
+238697,Information,T77,Eastern Washington,Eli Mcnelly,,6.0,3.0,1.0,2.0,13.67,2026-04-29T07:55:29.316194
+238697,Information,T81,Utah State,Luis Cantu,,8.0,1.0,4.0,3.0,11.57,2026-04-29T07:55:29.316217
+238697,Information,T81,Boise State,Luke Cushman,,8.0,2.0,4.0,2.0,11.57,2026-04-29T07:55:29.316239
+238697,Information,83,Tarleton State,Juan Ballester,,9.0,2.0,6.0,1.0,10.64,2026-04-29T07:55:29.316262
+238697,Information,T84,CSU Fullerton,william Tanaka,,10.0,4.0,5.0,1.0,9.79,2026-04-29T07:55:29.316285
+238697,Information,T84,CSU Fullerton,eliot vidal,,10.0,3.0,4.0,3.0,9.79,2026-04-29T07:55:29.316308
+238697,Information,T84,CSU Fullerton,lance nguyen,,10.0,7.0,0.0,3.0,9.79,2026-04-29T07:55:29.316333
+238697,Information,T84,UC Irvine,Xingzhi Lin,,10.0,8.0,-1.0,3.0,9.79,2026-04-29T07:55:29.316355
+238697,Information,T88,Boise State,Ryan Meyer,,11.0,8.0,2.0,1.0,9.01,2026-04-29T07:55:29.316377
+238697,Information,T88,Gonzaga,Ethan Flynn,,11.0,2.0,4.0,5.0,9.01,2026-04-29T07:55:29.316399
+238697,Information,T88,CSU Fullerton,shibo wang,,11.0,7.0,1.0,3.0,9.01,2026-04-29T07:55:29.316422
+238697,Information,T91,Utah State,Toby Heider,,12.0,3.0,1.0,8.0,8.29,2026-04-29T07:55:29.316444
+238697,Information,T91,Creighton,Gavin Gerch,,12.0,4.0,0.0,8.0,8.29,2026-04-29T07:55:29.316467
+238697,Information,93,Wyoming (IND),Austin Barry,,13.0,1.0,7.0,5.0,7.63,2026-04-29T07:55:29.316490
+238697,Information,T94,Wyoming,Kellen Ball,,14.0,8.0,3.0,3.0,7.02,2026-04-29T07:55:29.316513
+238697,Information,T94,Texas State,Sakke Siltala,,14.0,0.0,6.0,8.0,7.02,2026-04-29T07:55:29.316535
+238697,Information,T96,Northern Colorado,Tommie Clark,,15.0,6.0,8.0,1.0,6.46,2026-04-29T07:55:29.316557
+238697,Information,T96,CSU Fullerton,Giacoma Comerio,,15.0,4.0,4.0,7.0,6.46,2026-04-29T07:55:29.316579
+238697,Information,98,UC Irvine,Jason Tang,,16.0,6.0,10.0,0.0,5.94,2026-04-29T07:55:29.316603
+238697,Information,99,Northern Colorado,Thomas Barnes Grimes,,19.0,9.0,3.0,7.0,4.63,2026-04-29T07:55:29.316624
+238697,Information,100,Northern Colorado,Lucas Raoul,,,5.0,,6.0,1.9,2026-04-29T07:55:29.316650
+239901,Information,1,Arkansas State,Jake Wallis,,-12.0,-2.0,-3.0,-7.0,108.73,2026-04-29T07:55:29.779807
+239901,Information,2,Arkansas State,Thomas Schmidt,#35,-7.0,-6.0,-1.0,0.0,71.68,2026-04-29T07:55:29.779844
+239901,Information,T3,St. Mary's (CA),Mitchell Hoey,,-4.0,1.0,0.0,-5.0,55.82,2026-04-29T07:55:29.779868
+239901,Information,T3,Washington State,Sam Renner,,-4.0,-5.0,-1.0,2.0,55.82,2026-04-29T07:55:29.779892
+239901,Information,T3,Pacific,Timothy Jung,,-4.0,-2.0,-2.0,0.0,55.82,2026-04-29T07:55:29.779915
+239901,Information,T3,Santa Clara,Calder Overfelt,,-4.0,-2.0,-2.0,0.0,55.82,2026-04-29T07:55:29.779938
+239901,Information,7,Fresno State,Nash Arthurs,,-3.0,-3.0,1.0,-1.0,51.36,2026-04-29T07:55:29.779965
+239901,Information,T8,Arkansas State,Milan Reed,,-2.0,-2.0,1.0,-1.0,47.25,2026-04-29T07:55:29.779988
+239901,Information,T8,St. Mary's (CA),Inigo Izuzquiza,,-2.0,0.0,0.0,-2.0,47.25,2026-04-29T07:55:29.780011
+239901,Information,T8,St. Mary's (CA),Samuel Baumuller,,-2.0,-1.0,-1.0,0.0,47.25,2026-04-29T07:55:29.780034
+239901,Information,T8,Long Beach State,Steen Zeman,#100,-2.0,-2.0,1.0,-1.0,47.25,2026-04-29T07:55:29.780061
+239901,Information,T12,St. Mary's (CA),Avery Lazarski,,-1.0,-4.0,1.0,2.0,43.48,2026-04-29T07:55:29.780083
+239901,Information,T12,Long Beach State,Jaden Huggins,,-1.0,-1.0,1.0,-1.0,43.48,2026-04-29T07:55:29.780105
+239901,Information,T12,Texas State,Ben Loveard,,-1.0,-1.0,2.0,-2.0,43.48,2026-04-29T07:55:29.780127
+239901,Information,T12,Santa Clara,Kevin Hollomon,,-1.0,0.0,-1.0,0.0,43.48,2026-04-29T07:55:29.780149
+239901,Information,T12,Santa Clara,Matt Robles,,-1.0,3.0,-6.0,2.0,43.48,2026-04-29T07:55:29.780171
+239901,Information,T12,San Francisco,Henry Styles,,-1.0,-3.0,-2.0,4.0,43.48,2026-04-29T07:55:29.780193
+239901,Information,T18,Washington State,Dylan Boenning,,0.0,0.0,1.0,-1.0,40.0,2026-04-29T07:55:29.780216
+239901,Information,T18,Texas State,Jaxon Donaldson,,0.0,-1.0,0.0,1.0,40.0,2026-04-29T07:55:29.780238
+239901,Information,T18,Cal Poly,Nolan Kuszyk,,0.0,0.0,-2.0,2.0,40.0,2026-04-29T07:55:29.780260
+239901,Information,T18,Fresno State,Jaden Hunter,,0.0,3.0,-1.0,-2.0,40.0,2026-04-29T07:55:29.780281
+239901,Information,T18,Texas State,Sakke Siltala,,0.0,-3.0,0.0,3.0,40.0,2026-04-29T07:55:29.780303
+239901,Information,T23,Austin Peay State,Patton Samuels,,1.0,4.0,0.0,-3.0,36.8,2026-04-29T07:55:29.780325
+239901,Information,T23,Austin Peay State,Seth Smith,,1.0,0.0,1.0,0.0,36.8,2026-04-29T07:55:29.780346
+239901,Information,T23,Long Beach State (IND),Steven Deutsch,,1.0,1.0,3.0,-3.0,36.8,2026-04-29T07:55:29.780369
+239901,Information,T23,Fresno State,Zack Tarter,,1.0,-1.0,1.0,1.0,36.8,2026-04-29T07:55:29.780392
+239901,Information,T27,Sam Houston,Jackson Hymer,,2.0,2.0,1.0,-1.0,33.86,2026-04-29T07:55:29.780413
+239901,Information,T27,Cal Poly,Rafael Bobo-Lloret,,2.0,7.0,0.0,-5.0,33.86,2026-04-29T07:55:29.780435
+239901,Information,T27,Arkansas State,Jake Lile,,2.0,1.0,0.0,1.0,33.86,2026-04-29T07:55:29.780457
+239901,Information,T30,UC Santa Barbara,Nick Waldock,,3.0,3.0,2.0,-2.0,31.15,2026-04-29T07:55:29.780478
+239901,Information,T30,UC Santa Barbara,Jack Watters,,3.0,-2.0,1.0,4.0,31.15,2026-04-29T07:55:29.780499
+239901,Information,T30,Nevada,Oak Seelanagae,,3.0,-4.0,-2.0,9.0,31.15,2026-04-29T07:55:29.780522
+239901,Information,T30,San Francisco,Svante Palmgren,,3.0,1.0,3.0,-1.0,31.15,2026-04-29T07:55:29.780544
+239901,Information,T30,Pacific,Ian Fritz,,3.0,-1.0,2.0,2.0,31.15,2026-04-29T07:55:29.780565
+239901,Information,T30,Nevada,Ben Ortwein,,3.0,2.0,4.0,-3.0,31.15,2026-04-29T07:55:29.780587
+239901,Information,T36,UT Arlington,Arth Sinha,,4.0,0.0,4.0,0.0,28.66,2026-04-29T07:55:29.780609
+239901,Information,T36,Washington State,Ben Borgida,,4.0,2.0,4.0,-2.0,28.66,2026-04-29T07:55:29.780637
+239901,Information,T36,San Francisco,Renato Naula,,4.0,0.0,2.0,2.0,28.66,2026-04-29T07:55:29.780659
+239901,Information,T36,Texas State,Jose Berenguel,,4.0,4.0,1.0,-1.0,28.66,2026-04-29T07:55:29.780680
+239901,Information,T36,Pacific,Travis Robbie,,4.0,4.0,-2.0,2.0,28.66,2026-04-29T07:55:29.780701
+239901,Information,T36,St. Mary's (CA),Aidan Lee,,4.0,5.0,3.0,-4.0,28.66,2026-04-29T07:55:29.780723
+239901,Information,T42,New Mexico State,Ethan Klose,,5.0,3.0,-1.0,3.0,26.37,2026-04-29T07:55:29.780745
+239901,Information,T42,Long Beach State,Jack Cantlay,,5.0,-3.0,5.0,3.0,26.37,2026-04-29T07:55:29.780767
+239901,Information,T42,Santa Clara,JP Odland,,5.0,3.0,1.0,1.0,26.37,2026-04-29T07:55:29.780789
+239901,Information,T42,Pacific,Felix Bouchard,,5.0,2.0,2.0,1.0,26.37,2026-04-29T07:55:29.780810
+239901,Information,T42,New Mexico State,Mateo Payan,,5.0,0.0,5.0,0.0,26.37,2026-04-29T07:55:29.780832
+239901,Information,T42,UC Santa Barbara,Dylan Ma,,5.0,5.0,2.0,-2.0,26.37,2026-04-29T07:55:29.780853
+239901,Information,T42,Cal Poly,Jack Jarvis,,5.0,2.0,2.0,1.0,26.37,2026-04-29T07:55:29.780875
+239901,Information,T42,Pacific,Deitrek Gill,,5.0,1.0,1.0,3.0,26.37,2026-04-29T07:55:29.780898
+239901,Information,T50,Cal Poly (IND),Leo Metzger,,6.0,5.0,2.0,-1.0,24.26,2026-04-29T07:55:29.780919
+239901,Information,T50,Long Beach State,Alejandro De Castro,#146,6.0,5.0,0.0,1.0,24.26,2026-04-29T07:55:29.780943
+239901,Information,T50,Cal Poly,Louis Pilod,,6.0,1.0,1.0,4.0,24.26,2026-04-29T07:55:29.780965
+239901,Information,T50,Sam Houston,Sebastian May,,6.0,2.0,4.0,0.0,24.26,2026-04-29T07:55:29.780987
+239901,Information,T50,Sam Houston,Alex Malanga,,6.0,4.0,3.0,-1.0,24.26,2026-04-29T07:55:29.781009
+239901,Information,T50,UC Santa Barbara,Ryan Gay,,6.0,5.0,4.0,-3.0,24.26,2026-04-29T07:55:29.781031
+239901,Information,T56,Fresno State,Von Wasson,,7.0,-2.0,5.0,4.0,22.32,2026-04-29T07:55:29.781053
+239901,Information,T56,Sam Houston,Grayson Petru,,7.0,1.0,6.0,0.0,22.32,2026-04-29T07:55:29.781074
+239901,Information,T56,Nevada,Aaron Leach,,7.0,2.0,3.0,2.0,22.32,2026-04-29T07:55:29.781096
+239901,Information,T56,Cal Poly,Zihao Wang,,7.0,4.0,3.0,0.0,22.32,2026-04-29T07:55:29.781118
+239901,Information,T56,New Mexico State,Javier Delgadillo,,7.0,1.0,4.0,2.0,22.32,2026-04-29T07:55:29.781140
+239901,Information,T56,Long Beach State,Krishnav Nikhil Chopraa,,7.0,8.0,0.0,-1.0,22.32,2026-04-29T07:55:29.781161
+239901,Information,T62,Fresno State (IND),Chris Bettencourt,,8.0,2.0,4.0,2.0,20.54,2026-04-29T07:55:29.781183
+239901,Information,T62,Arkansas State,Chris Somerfield,,8.0,1.0,5.0,2.0,20.54,2026-04-29T07:55:29.781204
+239901,Information,T62,St. Mary's (CA) (IND),James Williams,,8.0,1.0,6.0,1.0,20.54,2026-04-29T07:55:29.781225
+239901,Information,T62,Nevada,Riki Matsumoto,,8.0,4.0,1.0,3.0,20.54,2026-04-29T07:55:29.781248
+239901,Information,T62,Texas State,Harrison Jaeger,,8.0,3.0,3.0,2.0,20.54,2026-04-29T07:55:29.781270
+239901,Information,T62,Santa Clara,Max Margolis,,8.0,4.0,3.0,1.0,20.54,2026-04-29T07:55:29.781292
+239901,Information,T68,Nevada,Liam Gobin,,9.0,2.0,4.0,3.0,18.89,2026-04-29T07:55:29.781313
+239901,Information,T68,San Francisco,Theo Anderson,,9.0,6.0,6.0,-3.0,18.89,2026-04-29T07:55:29.781335
+239901,Information,T68,Austin Peay State,John Mark Mills,,9.0,4.0,4.0,1.0,18.89,2026-04-29T07:55:29.781356
+239901,Information,T68,San Francisco,Nils Svanberg,,9.0,1.0,6.0,2.0,18.89,2026-04-29T07:55:29.781377
+239901,Information,72,UT Arlington,Ajay Morris,,10.0,3.0,9.0,-2.0,17.38,2026-04-29T07:55:29.781400
+239901,Information,T73,UC Santa Barbara (IND),Andrew Reyes,,11.0,4.0,6.0,1.0,15.99,2026-04-29T07:55:29.781423
+239901,Information,T73,San Francisco (IND),Taehoon Park,,11.0,4.0,6.0,1.0,15.99,2026-04-29T07:55:29.781444
+239901,Information,T73,Arkansas State (IND),Cole Kirby,,11.0,3.0,5.0,3.0,15.99,2026-04-29T07:55:29.781466
+239901,Information,T76,New Mexico State,Max Chan,,12.0,6.0,1.0,5.0,14.71,2026-04-29T07:55:29.781488
+239901,Information,T76,UT Arlington,Nicholas Lyman,,12.0,5.0,4.0,3.0,14.71,2026-04-29T07:55:29.781510
+239901,Information,T76,Nevada (IND),Monte Chumchaivate,,12.0,5.0,7.0,0.0,14.71,2026-04-29T07:55:29.781532
+239901,Information,79,Washington State,Ben Mulder,,13.0,4.0,6.0,3.0,13.54,2026-04-29T07:55:29.781557
+239901,Information,80,Washington State,Dylan Burcham,,14.0,6.0,8.0,0.0,12.46,2026-04-29T07:55:29.781578
+239901,Information,81,UC Santa Barbara,Zach Schwab,,15.0,3.0,8.0,4.0,11.46,2026-04-29T07:55:29.781599
+239901,Information,T82,New Mexico State,Bryant Hernandez,,16.0,6.0,4.0,6.0,10.54,2026-04-29T07:55:29.781619
+239901,Information,T82,Washington State (IND),Christian Flick,,16.0,3.0,7.0,6.0,10.54,2026-04-29T07:55:29.781641
+239901,Information,T82,Santa Clara (IND),Jack Hayden,,16.0,5.0,8.0,3.0,10.54,2026-04-29T07:55:29.781661
+239901,Information,85,Pacific (IND),Josh Stuart,,17.0,6.0,4.0,7.0,9.7,2026-04-29T07:55:29.781681
+239901,Information,86,UT Arlington,Michael Chevalier,,21.0,10.0,1.0,10.0,6.95,2026-04-29T07:55:29.781702
+239901,Information,87,St. Mary's (CA) (IND),Matthew Almajano,,22.0,10.0,7.0,5.0,6.4,2026-04-29T07:55:29.781720
+239901,Information,88,Austin Peay State,Jackson Wise,,23.0,6.0,11.0,6.0,5.88,2026-04-29T07:55:29.781740
+239901,Information,89,Austin Peay State,Parker Elkins,,24.0,8.0,11.0,5.0,5.41,2026-04-29T07:55:29.781760
+239901,Information,T90,Fresno State,James Watney,,26.0,11.0,8.0,7.0,4.58,2026-04-29T07:55:29.781779
+239901,Information,T90,Sam Houston,Caleb Lumpkin,,26.0,16.0,12.0,-2.0,4.58,2026-04-29T07:55:29.781799
+239901,Information,92,UT Arlington,Jen chie huang,,,,5.0,4.0,4.2,2026-04-29T07:55:29.781823
+238648,Information,1,Oregon,Sebastian Desoisa,,-17.0,-8.0,-6.0,-3.0,127.02,2026-04-29T07:55:30.246060
+238648,Information,2,Grand Canyon,Måns Boje,,-12.0,-6.0,-4.0,-2.0,83.74,2026-04-29T07:55:30.246097
+238648,Information,3,Brigham Young,Tyson Shelley,,-11.0,-3.0,-4.0,-4.0,77.04,2026-04-29T07:55:30.246126
+238648,Information,4,Santa Clara,JP Odland,,-9.0,1.0,-2.0,-8.0,65.21,2026-04-29T07:55:30.246153
+238648,Information,T5,Brigham Young,Kihei Akina,#99,-8.0,-3.0,-4.0,-1.0,60.0,2026-04-29T07:55:30.246182
+238648,Information,T5,Brigham Young,Simon Kwon,#30,-8.0,-4.0,-6.0,2.0,60.0,2026-04-29T07:55:30.246211
+238648,Information,T5,Long Beach State,Jaden Huggins,,-8.0,2.0,-7.0,-3.0,60.0,2026-04-29T07:55:30.246241
+238648,Information,8,St. Mary's (CA),Mitchell Hoey,,-7.0,-1.0,-5.0,-1.0,55.2,2026-04-29T07:55:30.246267
+238648,Information,T9,San Diego (IND),Charlie Gillespie,,-6.0,-4.0,-4.0,2.0,50.79,2026-04-29T07:55:30.246293
+238648,Information,T9,Santa Clara,Kevin Hollomon,,-6.0,-3.0,0.0,-3.0,50.79,2026-04-29T07:55:30.246319
+238648,Information,T9,Long Beach State,Jack Cantlay,,-6.0,-2.0,-3.0,-1.0,50.79,2026-04-29T07:55:30.246344
+238648,Information,T9,San Diego,Reed Arnaldo,,-6.0,1.0,-6.0,-1.0,50.79,2026-04-29T07:55:30.246370
+238648,Information,T9,Long Beach State,Alejandro De Castro,#141,-6.0,-1.0,-3.0,-2.0,50.79,2026-04-29T07:55:30.246398
+238648,Information,T9,Kent State,Isaiah Ibit,#98,-6.0,1.0,-1.0,-6.0,50.79,2026-04-29T07:55:30.246426
+238648,Information,T15,Colorado State,Alessandro Trenta,,-5.0,-1.0,-5.0,1.0,46.73,2026-04-29T07:55:30.246471
+238648,Information,T15,Oregon,Jay Gould-Healy,,-5.0,-1.0,-5.0,1.0,46.73,2026-04-29T07:55:30.246496
+238648,Information,T17,Colorado State,Jake Rodgers,,-4.0,-3.0,-2.0,1.0,42.99,2026-04-29T07:55:30.246522
+238648,Information,T17,Santa Clara,Matt Robles,,-4.0,-2.0,-1.0,-1.0,42.99,2026-04-29T07:55:30.246548
+238648,Information,T17,Oregon,Aiden Krafft,,-4.0,-1.0,0.0,-3.0,42.99,2026-04-29T07:55:30.246572
+238648,Information,T17,Oregon (IND),Jeffrey Kwak,,-4.0,-4.0,2.0,-2.0,42.99,2026-04-29T07:55:30.246598
+238648,Information,T21,San Diego,Cooper Humphreys,,-3.0,-3.0,-2.0,2.0,39.55,2026-04-29T07:55:30.246624
+238648,Information,T21,San Diego,Reid Piron,,-3.0,2.0,-4.0,-1.0,39.55,2026-04-29T07:55:30.246649
+238648,Information,T21,St. Mary's (CA),Avery Lazarski,,-3.0,-1.0,-1.0,-1.0,39.55,2026-04-29T07:55:30.246674
+238648,Information,T21,Kent State,James Newton,,-3.0,-3.0,-3.0,3.0,39.55,2026-04-29T07:55:30.246700
+238648,Information,T25,California (IND),Trevor Cox,,-2.0,-3.0,0.0,1.0,36.39,2026-04-29T07:55:30.246725
+238648,Information,T25,Grand Canyon,Gavin O'Neill,,-2.0,1.0,-6.0,3.0,36.39,2026-04-29T07:55:30.246750
+238648,Information,T25,Grand Canyon,Matthew Diehl,#140,-2.0,-2.0,-3.0,3.0,36.39,2026-04-29T07:55:30.246779
+238648,Information,T25,St. Mary's (CA),Inigo Izuzquiza,,-2.0,-4.0,-3.0,5.0,36.39,2026-04-29T07:55:30.246805
+238648,Information,T29,California,Daniel Heo,,-1.0,1.0,1.0,-3.0,33.48,2026-04-29T07:55:30.246833
+238648,Information,T29,Cal Poly,Nolan Kuszyk,,-1.0,-2.0,-6.0,7.0,33.48,2026-04-29T07:55:30.246860
+238648,Information,T31,Cal Poly,Louis Pilod,,0.0,-2.0,-2.0,4.0,30.8,2026-04-29T07:55:30.246884
+238648,Information,T31,Long Beach State,Krishnav Nikhil Chopraa,,0.0,-4.0,5.0,-1.0,30.8,2026-04-29T07:55:30.246908
+238648,Information,T33,Brigham Young,Jackson Mauss,,1.0,-3.0,2.0,2.0,28.34,2026-04-29T07:55:30.246930
+238648,Information,T33,St. Mary's (CA),Samuel Baumuller,,1.0,-3.0,-1.0,5.0,28.34,2026-04-29T07:55:30.246954
+238648,Information,T33,San Diego,You Seong Choi,,1.0,0.0,3.0,-2.0,28.34,2026-04-29T07:55:30.246978
+238648,Information,T36,Brigham Young,Peter Kim,#58,2.0,-2.0,-1.0,5.0,26.08,2026-04-29T07:55:30.247004
+238648,Information,T36,Long Beach State (IND),Steven Deutsch,,2.0,1.0,0.0,1.0,26.08,2026-04-29T07:55:30.247028
+238648,Information,T36,Brigham Young (IND),Parker Bunn,,2.0,-3.0,-1.0,6.0,26.08,2026-04-29T07:55:30.247052
+238648,Information,T39,Kent State,Nolan Haynes,,3.0,3.0,0.0,0.0,23.99,2026-04-29T07:55:30.247076
+238648,Information,T39,Kent State (IND),Darcy Hogg,,3.0,1.0,3.0,-1.0,23.99,2026-04-29T07:55:30.247099
+238648,Information,T39,Cal Poly,Rafael Bobo-Lloret,,3.0,0.0,2.0,1.0,23.99,2026-04-29T07:55:30.247125
+238648,Information,T42,Cal Poly (IND),Sean Lehman,,4.0,-1.0,5.0,0.0,22.07,2026-04-29T07:55:30.247149
+238648,Information,T42,California,Matthew Miyamoto,,4.0,6.0,-2.0,0.0,22.07,2026-04-29T07:55:30.247171
+238648,Information,T42,San Diego,Go Nakatsukasa,,4.0,-1.0,-2.0,7.0,22.07,2026-04-29T07:55:30.247194
+238648,Information,T42,Santa Clara,Calder Overfelt,,4.0,2.0,4.0,-2.0,22.07,2026-04-29T07:55:30.247218
+238648,Information,T46,St. Mary's (CA) (IND),James Williams,,5.0,3.0,-2.0,4.0,20.31,2026-04-29T07:55:30.247242
+238648,Information,T46,Grand Canyon (IND),Campbell Kerr,,5.0,6.0,-6.0,5.0,20.31,2026-04-29T07:55:30.247265
+238648,Information,T46,California,Sihao Cong,,5.0,-4.0,3.0,6.0,20.31,2026-04-29T07:55:30.247288
+238648,Information,T46,Colorado State,Charlie Tucker,,5.0,-3.0,4.0,4.0,20.31,2026-04-29T07:55:30.247312
+238648,Information,T46,Cal Poly (IND),Leo Metzger,,5.0,5.0,0.0,0.0,20.31,2026-04-29T07:55:30.247334
+238648,Information,T46,Oregon,Tim Chang,,5.0,0.0,2.0,3.0,20.31,2026-04-29T07:55:30.247358
+238648,Information,52,Grand Canyon,Erik Rengardt,,6.0,3.0,1.0,2.0,18.68,2026-04-29T07:55:30.247382
+238648,Information,T53,Cal Poly,Zihao Wang,,7.0,2.0,1.0,4.0,17.19,2026-04-29T07:55:30.247405
+238648,Information,T53,Cal Poly (IND),Kyle Dougherty,,7.0,7.0,1.0,-1.0,17.19,2026-04-29T07:55:30.247428
+238648,Information,T53,Santa Clara,Emil Nielsen,,7.0,1.0,5.0,1.0,17.19,2026-04-29T07:55:30.247452
+238648,Information,T53,St. Mary's (CA),Aidan Lee,,7.0,3.0,0.0,4.0,17.19,2026-04-29T07:55:30.247475
+238648,Information,T57,Long Beach State,Steen Zeman,#93,8.0,-1.0,4.0,5.0,15.82,2026-04-29T07:55:30.247502
+238648,Information,T57,Kent State,Liam Curtis,,8.0,2.0,1.0,5.0,15.82,2026-04-29T07:55:30.247527
+238648,Information,T59,Santa Clara (IND),Max Margolis,,9.0,7.0,2.0,0.0,14.55,2026-04-29T07:55:30.247550
+238648,Information,T59,Oregon,Oscar Lent,,9.0,3.0,0.0,6.0,14.55,2026-04-29T07:55:30.247576
+238648,Information,T59,Colorado State,Matthew Wilkinson,,9.0,2.0,4.0,3.0,14.55,2026-04-29T07:55:30.247600
+238648,Information,T59,Grand Canyon,Daniel Nilsson,,9.0,-1.0,-3.0,13.0,14.55,2026-04-29T07:55:30.247623
+238648,Information,63,California,Charlie Berridge,,10.0,7.0,-4.0,7.0,13.39,2026-04-29T07:55:30.247646
+238648,Information,64,Cal Poly (IND),Reese Sato,,13.0,8.0,3.0,2.0,10.43,2026-04-29T07:55:30.247669
+238648,Information,T65,California,Charlie Bundy,,14.0,7.0,-1.0,8.0,9.59,2026-04-29T07:55:30.247693
+238648,Information,T65,Kent State,Ramiro Acevedo,,14.0,5.0,-2.0,11.0,9.59,2026-04-29T07:55:30.247716
+238648,Information,67,Colorado State,Charlie Doyle,,16.0,1.0,10.0,5.0,8.12,2026-04-29T07:55:30.247738
+238648,Information,68,Cal Poly,Jack Jarvis,,17.0,0.0,5.0,12.0,7.47,2026-04-29T07:55:30.247762
+238577,Information,1,Loyola Marymount,Trevor Algya,#115,-8.0,-3.0,1.0,-6.0,111.98,2026-04-29T07:55:30.723430
+238577,Information,2,San Diego State,Harry Takis,,-7.0,-2.0,0.0,-5.0,103.03,2026-04-29T07:55:30.723460
+238577,Information,T3,California,Ziqin Zhou,,-6.0,-1.0,-1.0,-4.0,94.79,2026-04-29T07:55:30.723482
+238577,Information,T3,New Mexico,Mesa Falleur,#54,-6.0,0.0,-4.0,-2.0,94.79,2026-04-29T07:55:30.723505
+238577,Information,T3,UNLV,Mason Snyder,,-6.0,-2.0,-3.0,-1.0,94.79,2026-04-29T07:55:30.723527
+238577,Information,6,Brigham Young,Kihei Akina,#103,-4.0,-2.0,-1.0,-1.0,80.24,2026-04-29T07:55:30.723570
+238577,Information,T7,Utah,Sergio Jimenez,#75,-3.0,-4.0,-1.0,2.0,73.83,2026-04-29T07:55:30.723597
+238577,Information,T7,St. Mary's (CA),Avery Lazarski,,-3.0,2.0,-3.0,-2.0,73.83,2026-04-29T07:55:30.723618
+238577,Information,T7,Long Beach State,Alejandro De Castro,,-3.0,1.0,-4.0,0.0,73.83,2026-04-29T07:55:30.723640
+238577,Information,T10,UTEP,Dylan Teeter,,-2.0,-2.0,3.0,-3.0,67.92,2026-04-29T07:55:30.723660
+238577,Information,T10,UTEP,Braden Smith,,-2.0,-3.0,0.0,1.0,67.92,2026-04-29T07:55:30.723681
+238577,Information,T10,Loyola Marymount,Nateeshvar Anatha Ganesh,,-2.0,-1.0,-5.0,4.0,67.92,2026-04-29T07:55:30.723711
+238577,Information,13,Loyola Marymount,Louie Liu,,-1.0,1.0,1.0,-3.0,62.49,2026-04-29T07:55:30.723731
+238577,Information,T14,New Mexico,Johnnie Clark,,0.0,0.0,-1.0,1.0,57.49,2026-04-29T07:55:30.723751
+238577,Information,T14,UNLV,Zach Little,,0.0,0.0,-1.0,1.0,57.49,2026-04-29T07:55:30.723770
+238577,Information,T14,Long Beach State,Krishnav Nikhil Chopraa,,0.0,-1.0,1.0,0.0,57.49,2026-04-29T07:55:30.723790
+238577,Information,T14,Long Beach State (IND),Jack Cantlay,,0.0,0.0,-3.0,3.0,57.49,2026-04-29T07:55:30.723810
+238577,Information,T18,New Mexico,Emil Albers,#53,1.0,-1.0,1.0,1.0,52.9,2026-04-29T07:55:30.723833
+238577,Information,T18,Texas A&M,Wheaton Ennis,#65,1.0,-2.0,3.0,0.0,52.9,2026-04-29T07:55:30.723855
+238577,Information,T18,Texas A&M,Jaime Montojo,,1.0,1.0,-1.0,1.0,52.9,2026-04-29T07:55:30.723876
+238577,Information,T21,California,Sihao Cong,,2.0,1.0,1.0,0.0,48.67,2026-04-29T07:55:30.723896
+238577,Information,T21,UNLV,Trevor Lewis,#144,2.0,1.0,3.0,-2.0,48.67,2026-04-29T07:55:30.723918
+238577,Information,T21,Brigham Young,Tyson Shelley,,2.0,0.0,0.0,2.0,48.67,2026-04-29T07:55:30.723938
+238577,Information,T21,Long Beach State,Jaden Huggins,,2.0,3.0,2.0,-3.0,48.67,2026-04-29T07:55:30.723958
+238577,Information,T21,UNLV,Wyatt Plattner,,2.0,2.0,-2.0,2.0,48.67,2026-04-29T07:55:30.723978
+238577,Information,T21,Texas A&M,Alex Long,,2.0,1.0,0.0,1.0,48.67,2026-04-29T07:55:30.724000
+238577,Information,T21,Texas A&M,Aaron Pounds,#23,2.0,-3.0,0.0,5.0,48.67,2026-04-29T07:55:30.724022
+238577,Information,T21,Washington State,Sam Renner,,2.0,1.0,-1.0,2.0,48.67,2026-04-29T07:55:30.724042
+238577,Information,29,Santa Clara,Calder Overfelt,,3.0,-2.0,4.0,1.0,44.78,2026-04-29T07:55:30.724063
+238577,Information,T30,Loyola Marymount,Pablo Garcia Terol,,4.0,2.0,-1.0,3.0,41.2,2026-04-29T07:55:30.724083
+238577,Information,T30,Washington State,Dylan Boenning,,4.0,0.0,3.0,1.0,41.2,2026-04-29T07:55:30.724104
+238577,Information,T30,St. Mary's (CA),Samuel Baumuller,,4.0,2.0,-2.0,4.0,41.2,2026-04-29T07:55:30.724125
+238577,Information,T30,San Diego State,Tyler Kowack,#81,4.0,2.0,-2.0,4.0,41.2,2026-04-29T07:55:30.724147
+238577,Information,T30,Utah,Gabriel Palacios,#13,4.0,5.0,1.0,-2.0,41.2,2026-04-29T07:55:30.724169
+238577,Information,T30,Texas A&M (IND),Kris Kuvaas,,4.0,-2.0,0.0,6.0,41.2,2026-04-29T07:55:30.724190
+238577,Information,T30,San Diego State,Kai Hirayama,,4.0,-1.0,3.0,2.0,41.2,2026-04-29T07:55:30.724209
+238577,Information,T30,Texas A&M (IND),Jake Maggert,,4.0,5.0,-2.0,1.0,41.2,2026-04-29T07:55:30.724228
+238577,Information,T38,Grand Canyon,Nixon Lauritzen,,5.0,3.0,1.0,1.0,37.9,2026-04-29T07:55:30.724251
+238577,Information,T38,Grand Canyon,Gavin O'Neill,,5.0,3.0,1.0,1.0,37.9,2026-04-29T07:55:30.724271
+238577,Information,T38,St. Mary's (CA),Inigo Izuzquiza,,5.0,2.0,1.0,2.0,37.9,2026-04-29T07:55:30.724291
+238577,Information,T38,Utah,Jack Jerge,,5.0,1.0,2.0,2.0,37.9,2026-04-29T07:55:30.724312
+238577,Information,T38,Washington State,Ben Borgida,,5.0,5.0,1.0,-1.0,37.9,2026-04-29T07:55:30.724332
+238577,Information,T38,Texas A&M,Jack Usner,,5.0,8.0,-4.0,1.0,37.9,2026-04-29T07:55:30.724352
+238577,Information,T44,New Mexico,Thayer Plewe,,6.0,2.0,3.0,1.0,34.87,2026-04-29T07:55:30.724372
+238577,Information,T44,UNLV (IND),Billy Smith,,6.0,3.0,2.0,1.0,34.87,2026-04-29T07:55:30.724393
+238577,Information,T44,Brigham Young,Jackson Mauss,,6.0,4.0,-2.0,4.0,34.87,2026-04-29T07:55:30.724412
+238577,Information,T44,Miami (OH),Cameron Pero,,6.0,2.0,2.0,2.0,34.87,2026-04-29T07:55:30.724432
+238577,Information,T44,UTEP,Pat Foley,,6.0,5.0,-1.0,2.0,34.87,2026-04-29T07:55:30.724453
+238577,Information,T49,Grand Canyon,Matthew Diehl,,7.0,0.0,6.0,1.0,32.08,2026-04-29T07:55:30.724478
+238577,Information,T49,Long Beach State,Steen Zeman,,7.0,0.0,3.0,4.0,32.08,2026-04-29T07:55:30.724498
+238577,Information,T49,UNLV,Ryan Abuan,#16,7.0,5.0,0.0,2.0,32.08,2026-04-29T07:55:30.724521
+238577,Information,T49,Missouri,Virgilio Paz,,7.0,1.0,3.0,3.0,32.08,2026-04-29T07:55:30.724541
+238577,Information,T49,Utah,Brandon Robison,,7.0,4.0,6.0,-3.0,32.08,2026-04-29T07:55:30.724561
+238577,Information,T49,Miami (OH),Liam Nelson,,7.0,3.0,1.0,3.0,32.08,2026-04-29T07:55:30.724581
+238577,Information,T55,New Mexico,Wyatt Provence,,8.0,4.0,1.0,3.0,29.52,2026-04-29T07:55:30.724600
+238577,Information,T55,Santa Clara,Kevin Hollomon,,8.0,0.0,0.0,8.0,29.52,2026-04-29T07:55:30.724620
+238577,Information,T55,Brigham Young,Simon Kwon,#79,8.0,2.0,0.0,6.0,29.52,2026-04-29T07:55:30.724642
+238577,Information,T58,Brigham Young,Peter Kim,#136,9.0,1.0,3.0,5.0,27.16,2026-04-29T07:55:30.724664
+238577,Information,T58,Fresno State,Zack Tarter,,9.0,3.0,2.0,4.0,27.16,2026-04-29T07:55:30.724685
+238577,Information,T58,California,Xihuan Chang,,9.0,-1.0,3.0,7.0,27.16,2026-04-29T07:55:30.724705
+238577,Information,T58,Miami (OH),Brett Podobinski,,9.0,5.0,3.0,1.0,27.16,2026-04-29T07:55:30.724725
+238577,Information,T58,Utah,Davis Johnson,#72,9.0,2.0,1.0,6.0,27.16,2026-04-29T07:55:30.724747
+238577,Information,T58,Hawaii,Nathan Szpakowicz,,9.0,1.0,4.0,4.0,27.16,2026-04-29T07:55:30.724768
+238577,Information,T58,Hawaii,James Whitworth,,9.0,-3.0,8.0,4.0,27.16,2026-04-29T07:55:30.724788
+238577,Information,T58,UTEP,Marc Keller,,9.0,5.0,3.0,1.0,27.16,2026-04-29T07:55:30.724807
+238577,Information,T58,St. Mary's (CA),Aidan Lee,,9.0,8.0,-2.0,3.0,27.16,2026-04-29T07:55:30.724828
+238577,Information,T67,Missouri,Veikka Viskari,,10.0,1.0,7.0,2.0,24.99,2026-04-29T07:55:30.724848
+238577,Information,T67,Hawaii,Dane Watanabe,,10.0,2.0,3.0,5.0,24.99,2026-04-29T07:55:30.724868
+238577,Information,T67,Loyola Marymount,Jackson McLaughlin,,10.0,-1.0,4.0,7.0,24.99,2026-04-29T07:55:30.724889
+238577,Information,T67,Fresno State,Jaden Hunter,,10.0,2.0,6.0,2.0,24.99,2026-04-29T07:55:30.724909
+238577,Information,T67,Santa Clara,Matt Robles,,10.0,1.0,3.0,6.0,24.99,2026-04-29T07:55:30.724929
+238577,Information,T67,San Francisco,William Svanström,,10.0,8.0,0.0,2.0,24.99,2026-04-29T07:55:30.724950
+238577,Information,T73,Washington State,Dylan Burcham,,11.0,6.0,-1.0,6.0,22.99,2026-04-29T07:55:30.724970
+238577,Information,T73,Grand Canyon,Daniel Nilsson,,11.0,5.0,1.0,5.0,22.99,2026-04-29T07:55:30.724990
+238577,Information,T73,Santa Clara,Emil Nielsen,,11.0,8.0,0.0,3.0,22.99,2026-04-29T07:55:30.725010
+238577,Information,T73,Miami (OH),Michael Weber,,11.0,6.0,2.0,3.0,22.99,2026-04-29T07:55:30.725032
+238577,Information,T73,San Diego State,Chanachon Chokprajakchat,#150,11.0,4.0,4.0,3.0,22.99,2026-04-29T07:55:30.725055
+238577,Information,T73,Grand Canyon,Måns Boje,,11.0,6.0,3.0,2.0,22.99,2026-04-29T07:55:30.725075
+238577,Information,T79,Brigham Young (IND),Parker Bunn,,12.0,6.0,3.0,3.0,21.15,2026-04-29T07:55:30.725096
+238577,Information,T79,Utah (IND),Jan Farre,,12.0,7.0,2.0,3.0,21.15,2026-04-29T07:55:30.725116
+238577,Information,T79,Missouri,Reese Roberts,,12.0,5.0,6.0,1.0,21.15,2026-04-29T07:55:30.725135
+238577,Information,T79,Santa Clara,JP Odland,,12.0,3.0,0.0,9.0,21.15,2026-04-29T07:55:30.725155
+238577,Information,T83,Missouri,Brock Snyder,,13.0,4.0,3.0,6.0,19.46,2026-04-29T07:55:30.725176
+238577,Information,T83,Fresno State,Jake Bettencourt,,13.0,5.0,5.0,3.0,19.46,2026-04-29T07:55:30.725196
+238577,Information,T83,Washington State,Christian Flick,,13.0,3.0,4.0,6.0,19.46,2026-04-29T07:55:30.725218
+238577,Information,T83,Fresno State,Von Wasson,,13.0,6.0,5.0,2.0,19.46,2026-04-29T07:55:30.725238
+238577,Information,T83,St. Mary's (CA),Mitchell Hoey,,13.0,0.0,5.0,8.0,19.46,2026-04-29T07:55:30.725258
+238577,Information,T83,San Francisco,Svante Palmgren,,13.0,10.0,-2.0,5.0,19.46,2026-04-29T07:55:30.725278
+238577,Information,T83,California (IND),Trevor Cox,,13.0,8.0,2.0,3.0,19.46,2026-04-29T07:55:30.725300
+238577,Information,T83,New Mexico (IND),Clark Sonnenberg,,13.0,6.0,5.0,2.0,19.46,2026-04-29T07:55:30.725320
+238577,Information,T83,Missouri,Trent Mierl,,13.0,7.0,2.0,4.0,19.46,2026-04-29T07:55:30.725343
+238577,Information,T83,Grand Canyon (IND),Trey Moore,,13.0,9.0,0.0,4.0,19.46,2026-04-29T07:55:30.725363
+238577,Information,T93,St. Mary's (CA) (IND),James Williams,,14.0,4.0,5.0,5.0,17.9,2026-04-29T07:55:30.725386
+238577,Information,T93,California,Charlie Bundy,,14.0,4.0,7.0,3.0,17.9,2026-04-29T07:55:30.725407
+238577,Information,T93,San Diego State (IND),Nathan Sampson,,14.0,6.0,5.0,3.0,17.9,2026-04-29T07:55:30.725428
+238577,Information,T93,San Francisco,Renato Naula,,14.0,0.0,5.0,9.0,17.9,2026-04-29T07:55:30.725448
+238577,Information,T93,Long Beach State,Norwin Gohm,,14.0,-2.0,9.0,7.0,17.9,2026-04-29T07:55:30.725468
+238577,Information,T98,California,Charlie Berridge,,16.0,7.0,3.0,6.0,15.16,2026-04-29T07:55:30.725489
+238577,Information,T98,Miami (OH),Tyler Anderson,,16.0,3.0,7.0,6.0,15.16,2026-04-29T07:55:30.725509
+238577,Information,T98,San Francisco,Henry Styles,,16.0,9.0,5.0,2.0,15.16,2026-04-29T07:55:30.725529
+238577,Information,T101,San Diego State,Dylan Oyama,,17.0,3.0,5.0,9.0,13.94,2026-04-29T07:55:30.725550
+238577,Information,T101,Miami (OH) (IND),Joseph Canitano,,17.0,5.0,9.0,3.0,13.94,2026-04-29T07:55:30.725570
+238577,Information,103,San Francisco,Nils Svanberg,,19.0,3.0,4.0,12.0,11.8,2026-04-29T07:55:30.725590
+238577,Information,104,Missouri (IND),Bubba Chapman,,20.0,7.0,7.0,6.0,10.86,2026-04-29T07:55:30.725609
+238577,Information,105,Hawaii,Alec Hilgers,,21.0,7.0,11.0,3.0,9.99,2026-04-29T07:55:30.725629
+238577,Information,T106,Washington State (IND),Garrett Harrison,,22.0,5.0,6.0,11.0,9.19,2026-04-29T07:55:30.725649
+238577,Information,T106,Fresno State,Nash Arthurs,,22.0,12.0,5.0,5.0,9.19,2026-04-29T07:55:30.725669
+238577,Information,T106,UTEP,Valentin Luna,,22.0,1.0,9.0,12.0,9.19,2026-04-29T07:55:30.725689
+238577,Information,109,Hawaii (IND),Christopher Salem,,24.0,8.0,7.0,9.0,7.78,2026-04-29T07:55:30.725709
+238577,Information,110,Hawaii,Cameron Combado,,26.0,4.0,10.0,12.0,6.59,2026-04-29T07:55:30.725730
+238577,Information,111,Hawaii (IND),Quinn Murray,,44.0,11.0,19.0,14.0,1.47,2026-04-29T07:55:30.725750
+238773,Information,1,Brigham Young,Kihei Akina,#88,-14.0,-5.0,-1.0,-8.0,123.44,2026-04-29T07:55:31.214094
+238773,Information,2,Long Beach State,Alejandro De Castro,,-13.0,-9.0,-2.0,-2.0,113.57,2026-04-29T07:55:31.214128
+238773,Information,3,San Diego State,Chanachon Chokprajakchat,,-9.0,-3.0,-4.0,-2.0,81.38,2026-04-29T07:55:31.214151
+238773,Information,T4,Long Beach State,Jaden Huggins,,-8.0,-2.0,-1.0,-5.0,74.87,2026-04-29T07:55:31.214172
+238773,Information,T4,Brigham Young,Simon Kwon,#109,-8.0,-4.0,0.0,-4.0,74.87,2026-04-29T07:55:31.214201
+238773,Information,6,San Diego,Ian Maspat,,-6.0,5.0,-5.0,-6.0,63.38,2026-04-29T07:55:31.214222
+238773,Information,T7,St. Mary's (CA),Samuel Baumuller,,-5.0,-1.0,-3.0,-1.0,58.31,2026-04-29T07:55:31.214245
+238773,Information,T7,San Diego,Reed Arnaldo,,-5.0,-2.0,-3.0,0.0,58.31,2026-04-29T07:55:31.214266
+238773,Information,T9,Cal Poly,Nolan Kuszyk,,-4.0,-2.0,-1.0,-1.0,53.65,2026-04-29T07:55:31.214287
+238773,Information,T9,San Diego,Cooper Humphreys,,-4.0,0.0,-5.0,1.0,53.65,2026-04-29T07:55:31.214307
+238773,Information,T9,San Diego State,Kai Hirayama,,-4.0,-3.0,0.0,-1.0,53.65,2026-04-29T07:55:31.214327
+238773,Information,T12,Pacific,Deitrek Gill,,-3.0,1.0,-1.0,-3.0,49.36,2026-04-29T07:55:31.214348
+238773,Information,T12,St. Mary's (CA),Aidan Lee,,-3.0,-4.0,4.0,-3.0,49.36,2026-04-29T07:55:31.214368
+238773,Information,T12,San Diego,Reid Piron,,-3.0,-5.0,4.0,-2.0,49.36,2026-04-29T07:55:31.214388
+238773,Information,T12,Colorado,Jackson Rivera,,-3.0,-1.0,-3.0,1.0,49.36,2026-04-29T07:55:31.214411
+238773,Information,T16,UC San Diego,Justin Gill,,-2.0,-4.0,1.0,1.0,45.41,2026-04-29T07:55:31.214432
+238773,Information,T16,UC San Diego,Davis McDowell,,-2.0,-1.0,-1.0,0.0,45.41,2026-04-29T07:55:31.214452
+238773,Information,T18,San Francisco,Renato Naula,,-1.0,-2.0,3.0,-2.0,41.78,2026-04-29T07:55:31.214473
+238773,Information,T18,UC Irvine,Junting Yu,,-1.0,-1.0,-4.0,4.0,41.78,2026-04-29T07:55:31.214493
+238773,Information,T18,Brigham Young (IND),Parker Bunn,,-1.0,-1.0,-3.0,3.0,41.78,2026-04-29T07:55:31.214514
+238773,Information,T18,St. Mary's (CA),Inigo Izuzquiza,,-1.0,4.0,-2.0,-3.0,41.78,2026-04-29T07:55:31.214533
+238773,Information,T22,San Diego State,Harry Takis,#1,0.0,0.0,0.0,0.0,38.44,2026-04-29T07:55:31.214556
+238773,Information,T22,Brigham Young,Peter Kim,,0.0,0.0,-1.0,1.0,38.44,2026-04-29T07:55:31.214576
+238773,Information,T24,Colorado,Hunter Swanson,,1.0,0.0,0.0,1.0,35.37,2026-04-29T07:55:31.214596
+238773,Information,T24,UC San Diego,Nathan Tseng,,1.0,0.0,-1.0,2.0,35.37,2026-04-29T07:55:31.214617
+238773,Information,T24,UT Arlington,Nicholas Lyman,,1.0,1.0,2.0,-2.0,35.37,2026-04-29T07:55:31.214639
+238773,Information,T24,San Diego State,Beau Sahr,,1.0,-2.0,2.0,1.0,35.37,2026-04-29T07:55:31.214659
+238773,Information,T24,Long Beach State,Jack Cantlay,,1.0,0.0,5.0,-4.0,35.37,2026-04-29T07:55:31.214679
+238773,Information,T24,UC Davis,Shaunak Nair,,1.0,-4.0,3.0,2.0,35.37,2026-04-29T07:55:31.214700
+238773,Information,T30,St. Mary's (CA),Avery Lazarski,,2.0,-1.0,2.0,1.0,32.54,2026-04-29T07:55:31.214720
+238773,Information,T30,Colorado,Parker Paxton,,2.0,0.0,0.0,2.0,32.54,2026-04-29T07:55:31.214740
+238773,Information,T30,UC Davis,Lequan Wang,,2.0,2.0,-3.0,3.0,32.54,2026-04-29T07:55:31.214761
+238773,Information,T30,Fresno State,Jaden Hunter,,2.0,-4.0,4.0,2.0,32.54,2026-04-29T07:55:31.214781
+238773,Information,T30,Pacific,Timothy Jung,,2.0,-1.0,2.0,1.0,32.54,2026-04-29T07:55:31.214801
+238773,Information,T35,UC Davis,Ryan Firpo,,3.0,1.0,2.0,0.0,29.94,2026-04-29T07:55:31.214821
+238773,Information,T35,Fresno State,Von Wasson,,3.0,3.0,-1.0,1.0,29.94,2026-04-29T07:55:31.214841
+238773,Information,T35,Long Beach State,Steen Zeman,,3.0,-2.0,0.0,5.0,29.94,2026-04-29T07:55:31.214861
+238773,Information,T38,Long Beach State,Krishnav Nikhil Chopraa,,4.0,-2.0,6.0,0.0,27.54,2026-04-29T07:55:31.214883
+238773,Information,T38,San Diego (IND),Brady Clark,,4.0,4.0,-2.0,2.0,27.54,2026-04-29T07:55:31.214905
+238773,Information,T38,UC Santa Barbara,Dylan Ma,,4.0,1.0,-1.0,4.0,27.54,2026-04-29T07:55:31.214926
+238773,Information,T38,Colorado,Brandon Knight,,4.0,2.0,-3.0,5.0,27.54,2026-04-29T07:55:31.214947
+238773,Information,T38,San Diego State,Tyler Kowack,#131,4.0,-1.0,3.0,2.0,27.54,2026-04-29T07:55:31.214969
+238773,Information,T38,UT Arlington,Arth Sinha,,4.0,3.0,1.0,0.0,27.54,2026-04-29T07:55:31.214990
+238773,Information,T38,UC Davis,Curtis Da Silva,,4.0,-1.0,2.0,3.0,27.54,2026-04-29T07:55:31.215011
+238773,Information,T38,San Francisco,Henry Styles,,4.0,1.0,0.0,3.0,27.54,2026-04-29T07:55:31.215032
+238773,Information,T46,Cal Poly,Rafael Bobo-Lloret,,5.0,4.0,0.0,1.0,25.34,2026-04-29T07:55:31.215052
+238773,Information,T46,Cal Poly,Kyle Dougherty,,5.0,0.0,3.0,2.0,25.34,2026-04-29T07:55:31.215073
+238773,Information,T46,Wyoming,Brody Knowlton,,5.0,5.0,-2.0,2.0,25.34,2026-04-29T07:55:31.215093
+238773,Information,T46,UC San Diego,Hanjie Yu,,5.0,2.0,3.0,0.0,25.34,2026-04-29T07:55:31.215113
+238773,Information,T46,St. Mary's (CA),Mitchell Hoey,,5.0,0.0,1.0,4.0,25.34,2026-04-29T07:55:31.215133
+238773,Information,T46,Pacific,Travis Robbie,,5.0,0.0,3.0,2.0,25.34,2026-04-29T07:55:31.215153
+238773,Information,T52,San Diego State (IND),Phillip Kench,,6.0,-4.0,12.0,-2.0,23.31,2026-04-29T07:55:31.215173
+238773,Information,T52,UC Santa Barbara,Ryan Gay,,6.0,0.0,1.0,5.0,23.31,2026-04-29T07:55:31.215194
+238773,Information,T52,Fresno State,Jake Bettencourt,,6.0,6.0,1.0,-1.0,23.31,2026-04-29T07:55:31.215214
+238773,Information,T52,San Diego State (IND),Dylan Oyama,,6.0,2.0,1.0,3.0,23.31,2026-04-29T07:55:31.215234
+238773,Information,T52,UC Davis,Zhenxian Zhang,,6.0,3.0,4.0,-1.0,23.31,2026-04-29T07:55:31.215255
+238773,Information,T52,UT Arlington,Ajay Morris,,6.0,5.0,1.0,0.0,23.31,2026-04-29T07:55:31.215276
+238773,Information,T52,San Diego,You Seong Choi,,6.0,2.0,-1.0,5.0,23.31,2026-04-29T07:55:31.215296
+238773,Information,T59,Brigham Young,Jackson Mauss,,7.0,3.0,3.0,1.0,21.45,2026-04-29T07:55:31.215317
+238773,Information,T59,San Diego (IND),Henry Dall,,7.0,0.0,6.0,1.0,21.45,2026-04-29T07:55:31.215337
+238773,Information,T59,San Diego (IND),Go Nakatsukasa,,7.0,1.0,2.0,4.0,21.45,2026-04-29T07:55:31.215357
+238773,Information,T59,UC San Diego,Francis Catalano,,7.0,4.0,3.0,0.0,21.45,2026-04-29T07:55:31.215378
+238773,Information,T59,Pacific,Brasen Briones,,7.0,5.0,-1.0,3.0,21.45,2026-04-29T07:55:31.215399
+238773,Information,T59,Brigham Young (IND),Angus Klintworth,,7.0,6.0,1.0,0.0,21.45,2026-04-29T07:55:31.215418
+238773,Information,65,Colorado,Ty Holbrook,,8.0,0.0,2.0,6.0,19.74,2026-04-29T07:55:31.215438
+238773,Information,T66,Brigham Young,Tyson Shelley,,10.0,1.0,5.0,4.0,16.71,2026-04-29T07:55:31.215459
+238773,Information,T66,UC Irvine,Rei Harashima,,10.0,6.0,4.0,0.0,16.71,2026-04-29T07:55:31.215478
+238773,Information,T66,Wyoming,Brody Leid,,10.0,5.0,0.0,5.0,16.71,2026-04-29T07:55:31.215498
+238773,Information,T66,San Diego State (IND),Teddy Gardner,,10.0,3.0,1.0,6.0,16.71,2026-04-29T07:55:31.215519
+238773,Information,T66,Wyoming,Kellen Ball,,10.0,0.0,6.0,4.0,16.71,2026-04-29T07:55:31.215539
+238773,Information,T71,UC Santa Barbara,Nick Waldock,,11.0,3.0,4.0,4.0,15.37,2026-04-29T07:55:31.215559
+238773,Information,T71,San Francisco,Nils Svanberg,,11.0,3.0,4.0,4.0,15.37,2026-04-29T07:55:31.215580
+238773,Information,T71,UC Irvine,Jason Tang,,11.0,-2.0,8.0,5.0,15.37,2026-04-29T07:55:31.215601
+238773,Information,T71,Cal Poly,Zihao Wang,,11.0,3.0,4.0,4.0,15.37,2026-04-29T07:55:31.215621
+238773,Information,T71,Pacific,Felix Bouchard,,11.0,4.0,4.0,3.0,15.37,2026-04-29T07:55:31.215641
+238773,Information,T71,Fresno State,Chris Bettencourt,,11.0,4.0,2.0,5.0,15.37,2026-04-29T07:55:31.215662
+238773,Information,T77,UC Irvine,Owen Davis-Piger,,12.0,4.0,-1.0,9.0,14.14,2026-04-29T07:55:31.215682
+238773,Information,T77,Cal Poly,Jack Jarvis,,12.0,0.0,7.0,5.0,14.14,2026-04-29T07:55:31.215703
+238773,Information,T77,UC Davis (IND),Treed Huang,,12.0,5.0,2.0,5.0,14.14,2026-04-29T07:55:31.215724
+238773,Information,T77,San Francisco,Svante Palmgren,,12.0,9.0,2.0,1.0,14.14,2026-04-29T07:55:31.215744
+238773,Information,T77,Wyoming,Kristof Panke,,12.0,4.0,3.0,5.0,14.14,2026-04-29T07:55:31.215764
+238773,Information,82,Cal Poly (IND),Sean Lehman,,13.0,5.0,3.0,5.0,13.01,2026-04-29T07:55:31.215784
+238773,Information,83,Fresno State,Zack Tarter,,14.0,2.0,4.0,8.0,11.97,2026-04-29T07:55:31.215804
+238773,Information,84,UC Santa Barbara,Jack Watters,,15.0,5.0,7.0,3.0,11.01,2026-04-29T07:55:31.215824
+238773,Information,85,St. Mary's (CA) (IND),James Williams,,16.0,4.0,5.0,7.0,10.13,2026-04-29T07:55:31.215846
+238773,Information,86,Pacific (IND),Daniel Henely,,17.0,6.0,3.0,8.0,9.32,2026-04-29T07:55:31.215866
+238773,Information,T87,UT Arlington,Michael Chevalier,,18.0,5.0,6.0,7.0,8.58,2026-04-29T07:55:31.215886
+238773,Information,T87,San Diego (IND),Charlie Gillespie,,18.0,9.0,5.0,4.0,8.58,2026-04-29T07:55:31.215908
+238773,Information,89,San Francisco,William Svanström,,19.0,4.0,10.0,5.0,7.89,2026-04-29T07:55:31.215929
+238773,Information,T90,UC Santa Barbara,Andrew Reyes,,20.0,6.0,7.0,7.0,7.26,2026-04-29T07:55:31.215950
+238773,Information,T90,Wyoming,Conner Scheich,,20.0,6.0,7.0,7.0,7.26,2026-04-29T07:55:31.215971
+238773,Information,T92,San Diego State (IND),Grayson Sebastian,,22.0,10.0,6.0,6.0,6.15,2026-04-29T07:55:31.215991
+238773,Information,T92,UT Arlington,Matthew Broder,,22.0,6.0,6.0,10.0,6.15,2026-04-29T07:55:31.216012
+238773,Information,T92,UC Irvine,Xingzhi Lin,,22.0,6.0,8.0,8.0,6.15,2026-04-29T07:55:31.216033
+238773,Information,95,Wyoming (IND),Austin Barry,,29.0,8.0,6.0,15.0,3.43,2026-04-29T07:55:31.216053
+238773,Information,96,San Diego State (IND),Nathan Sampson,,,-2.0,,0.0,19.17,2026-04-29T07:55:31.216076
+239371,Information,1,Long Beach State,Alejandro De Castro,#96,-13.0,-7.0,-7.0,1.0,125.26,2026-04-29T07:55:31.721059
+239371,Information,2,Arizona,Filip Jakubcik,#34,-10.0,-5.0,-3.0,-2.0,97.55,2026-04-29T07:55:31.721095
+239371,Information,T3,Arizona,Taishi Moto,,-7.0,-2.0,-3.0,-2.0,75.97,2026-04-29T07:55:31.721122
+239371,Information,T3,Oklahoma,Jase Summy,#32,-7.0,-4.0,0.0,-3.0,75.97,2026-04-29T07:55:31.721149
+239371,Information,T3,Arizona,William Wistrand,#114,-7.0,-4.0,-1.0,-2.0,75.97,2026-04-29T07:55:31.721175
+239371,Information,T3,Colorado,Ty Holbrook,,-7.0,-1.0,0.0,-6.0,75.97,2026-04-29T07:55:31.721200
+239371,Information,T3,Oral Roberts,Jorge Sanchez Gutierrez,,-7.0,-2.0,-1.0,-4.0,75.97,2026-04-29T07:55:31.721228
+239371,Information,T8,Pacific,Timothy Jung,,-6.0,-3.0,-3.0,0.0,69.9,2026-04-29T07:55:31.721254
+239371,Information,T8,Arizona State,Pongsapak Laopakdee,#58,-6.0,-5.0,-4.0,3.0,69.9,2026-04-29T07:55:31.721281
+239371,Information,T8,Colorado,Hunter Swanson,,-6.0,-6.0,1.0,-1.0,69.9,2026-04-29T07:55:31.721305
+239371,Information,T8,Oklahoma,Ryder Cowan,#22,-6.0,-1.0,-1.0,-4.0,69.9,2026-04-29T07:55:31.721330
+239371,Information,T12,UTSA,Logan Vargas,,-5.0,-1.0,1.0,-5.0,64.31,2026-04-29T07:55:31.721355
+239371,Information,T12,Arizona State (IND),Raul Gomez,,-5.0,-6.0,0.0,1.0,64.31,2026-04-29T07:55:31.721380
+239371,Information,T12,New Mexico,Mesa Falleur,#39,-5.0,-2.0,-1.0,-2.0,64.31,2026-04-29T07:55:31.721405
+239371,Information,T15,Oklahoma,Clark Van Gaalen,#82,-4.0,-6.0,4.0,-2.0,59.17,2026-04-29T07:55:31.721432
+239371,Information,T15,Long Beach State,Steen Zeman,,-4.0,-1.0,-1.0,-2.0,59.17,2026-04-29T07:55:31.721455
+239371,Information,T17,Long Beach State,Jaden Huggins,,-3.0,0.0,-3.0,0.0,54.44,2026-04-29T07:55:31.721479
+239371,Information,T17,Pacific,Deitrek Gill,,-3.0,0.0,3.0,-6.0,54.44,2026-04-29T07:55:31.721503
+239371,Information,T17,Arizona State,Connor Williams,#14,-3.0,-2.0,-2.0,1.0,54.44,2026-04-29T07:55:31.721529
+239371,Information,T17,Oral Roberts,Philip Voetmann,,-3.0,0.0,-2.0,-1.0,54.44,2026-04-29T07:55:31.721552
+239371,Information,T21,Grand Canyon,Nixon Lauritzen,,-2.0,0.0,-2.0,0.0,50.09,2026-04-29T07:55:31.721575
+239371,Information,T21,New Mexico,Thayer Plewe,,-2.0,-2.0,0.0,0.0,50.09,2026-04-29T07:55:31.721598
+239371,Information,T21,Arizona State,Bryan Newman,,-2.0,-4.0,2.0,0.0,50.09,2026-04-29T07:55:31.721622
+239371,Information,T21,Arizona State,Michael Mjaaseth,#10,-2.0,2.0,0.0,-4.0,50.09,2026-04-29T07:55:31.721649
+239371,Information,T21,UTSA,Francisco Solorza-Gutierrez,,-2.0,0.0,1.0,-3.0,50.09,2026-04-29T07:55:31.721672
+239371,Information,T21,New Mexico State,Mateo Payan,,-2.0,1.0,1.0,-4.0,50.09,2026-04-29T07:55:31.721696
+239371,Information,T27,UTEP,Marc Keller,,-1.0,-1.0,1.0,-1.0,46.08,2026-04-29T07:55:31.721720
+239371,Information,T27,Arizona,Zach Pollo,#90,-1.0,0.0,-1.0,0.0,46.08,2026-04-29T07:55:31.721746
+239371,Information,T27,Colorado,Brandon Knight,,-1.0,0.0,1.0,-2.0,46.08,2026-04-29T07:55:31.721769
+239371,Information,T27,UTEP,Dylan Teeter,,-1.0,-1.0,1.0,-1.0,46.08,2026-04-29T07:55:31.721793
+239371,Information,T27,Arizona State,Bowen Mauss,#118,-1.0,-2.0,2.0,-1.0,46.08,2026-04-29T07:55:31.721820
+239371,Information,T32,Colorado,Jackson Rivera,,0.0,2.0,1.0,-3.0,42.4,2026-04-29T07:55:31.721844
+239371,Information,T32,Arizona (IND),Tianyi Xiong,,0.0,-2.0,0.0,2.0,42.4,2026-04-29T07:55:31.721867
+239371,Information,T32,New Mexico,Johnnie Clark,#122,0.0,-2.0,2.0,0.0,42.4,2026-04-29T07:55:31.721893
+239371,Information,T35,Grand Canyon,Måns Boje,,1.0,-4.0,4.0,1.0,39.01,2026-04-29T07:55:31.721917
+239371,Information,T35,New Mexico,Wyatt Provence,,1.0,5.0,2.0,-6.0,39.01,2026-04-29T07:55:31.721941
+239371,Information,T37,Wyoming,Brody Knowlton,,2.0,-1.0,3.0,0.0,35.89,2026-04-29T07:55:31.721964
+239371,Information,T37,Colorado,Parker Paxton,,2.0,-3.0,8.0,-3.0,35.89,2026-04-29T07:55:31.721987
+239371,Information,T37,UTEP,Braden Smith,,2.0,-2.0,4.0,0.0,35.89,2026-04-29T07:55:31.722011
+239371,Information,T40,Oral Roberts,Gustav Liljeberg,,3.0,2.0,2.0,-1.0,33.02,2026-04-29T07:55:31.722034
+239371,Information,T40,Grand Canyon,Daniel Nilsson,,3.0,2.0,1.0,0.0,33.02,2026-04-29T07:55:31.722056
+239371,Information,T40,New Mexico State,Ethan Klose,,3.0,-1.0,6.0,-2.0,33.02,2026-04-29T07:55:31.722079
+239371,Information,T43,Long Beach State,Krishnav Nikhil Chopraa,,4.0,6.0,-3.0,1.0,30.38,2026-04-29T07:55:31.722103
+239371,Information,T43,Arizona (IND),Matěj Bača,,4.0,5.0,3.0,-4.0,30.38,2026-04-29T07:55:31.722127
+239371,Information,T43,New Mexico State,Javier Delgadillo,,4.0,1.0,0.0,3.0,30.38,2026-04-29T07:55:31.722150
+239371,Information,T43,Oklahoma,Coltrane Mittag,,4.0,3.0,-2.0,3.0,30.38,2026-04-29T07:55:31.722175
+239371,Information,T43,New Mexico State,Kostka Horno,,4.0,1.0,1.0,2.0,30.38,2026-04-29T07:55:31.722198
+239371,Information,T48,UTSA,Joshua Hong,,5.0,0.0,4.0,1.0,27.95,2026-04-29T07:55:31.722224
+239371,Information,T48,Grand Canyon,Gavin O'Neill,,5.0,1.0,7.0,-3.0,27.95,2026-04-29T07:55:31.722247
+239371,Information,T50,Arizona State (IND),Boston Bracken,,6.0,2.0,2.0,2.0,25.71,2026-04-29T07:55:31.722272
+239371,Information,T50,New Mexico State,Jackson Funkhouser,,6.0,4.0,2.0,0.0,25.71,2026-04-29T07:55:31.722295
+239371,Information,T50,Pacific,Brasen Briones,,6.0,5.0,2.0,-1.0,25.71,2026-04-29T07:55:31.722319
+239371,Information,T50,New Mexico,Clark Sonnenberg,,6.0,3.0,5.0,-2.0,25.71,2026-04-29T07:55:31.722342
+239371,Information,T50,UTEP,Pat Foley,,6.0,-3.0,7.0,2.0,25.71,2026-04-29T07:55:31.722365
+239371,Information,T55,UTEP,Alexandre Godin,,7.0,2.0,5.0,0.0,23.66,2026-04-29T07:55:31.722389
+239371,Information,T55,Arizona,Connor Hamm,,7.0,2.0,1.0,4.0,23.66,2026-04-29T07:55:31.722412
+239371,Information,T55,Oral Roberts,Christian Johnson,,7.0,2.0,2.0,3.0,23.66,2026-04-29T07:55:31.722435
+239371,Information,T55,Oklahoma,Cameron Cheek,,7.0,3.0,5.0,-1.0,23.66,2026-04-29T07:55:31.722461
+239371,Information,T59,Arizona State (IND),Kent Karlstrom,,8.0,7.0,2.0,-1.0,21.77,2026-04-29T07:55:31.722485
+239371,Information,T59,Long Beach State,Jack Cantlay,,8.0,2.0,9.0,-3.0,21.77,2026-04-29T07:55:31.722508
+239371,Information,T59,Grand Canyon,Matthew Diehl,,8.0,1.0,3.0,4.0,21.77,2026-04-29T07:55:31.722532
+239371,Information,62,Wyoming,Kellen Ball,,9.0,0.0,6.0,3.0,20.03,2026-04-29T07:55:31.722555
+239371,Information,T63,Hawaii,Nathan Szpakowicz,,10.0,3.0,2.0,5.0,18.43,2026-04-29T07:55:31.722580
+239371,Information,T63,Wyoming,Brody Leid,,10.0,5.0,2.0,3.0,18.43,2026-04-29T07:55:31.722604
+239371,Information,T65,Arizona State (IND),Peer Wernicke,,11.0,9.0,0.0,2.0,16.95,2026-04-29T07:55:31.722627
+239371,Information,T65,New Mexico (IND),Alvaro Portillo,,11.0,7.0,1.0,3.0,16.95,2026-04-29T07:55:31.722650
+239371,Information,T65,Oral Roberts,Ben Gratzl,,11.0,4.0,1.0,6.0,16.95,2026-04-29T07:55:31.722674
+239371,Information,T68,UTSA,Brayden Bare,,12.0,4.0,1.0,7.0,15.6,2026-04-29T07:55:31.722698
+239371,Information,T68,Wyoming,Kristof Panke,,12.0,1.0,5.0,6.0,15.6,2026-04-29T07:55:31.722721
+239371,Information,T68,Colorado (IND),Tyler Long,,12.0,2.0,6.0,4.0,15.6,2026-04-29T07:55:31.722744
+239371,Information,T71,Pacific,Travis Robbie,,14.0,7.0,6.0,1.0,13.2,2026-04-29T07:55:31.722767
+239371,Information,T71,Wyoming,Conner Scheich,,14.0,-3.0,5.0,12.0,13.2,2026-04-29T07:55:31.722790
+239371,Information,T71,Arizona (IND),Finn McCall,,14.0,3.0,8.0,3.0,13.2,2026-04-29T07:55:31.722814
+239371,Information,74,UTSA,Sam Acharya,,15.0,4.0,9.0,2.0,12.15,2026-04-29T07:55:31.722835
+239371,Information,75,Hawaii,Dane Watanabe,,16.0,7.0,6.0,3.0,11.18,2026-04-29T07:55:31.722858
+239371,Information,76,Pacific,Felix Bouchard,,17.0,12.0,3.0,2.0,10.28,2026-04-29T07:55:31.722882
+239371,Information,77,Hawaii,Alec Hilgers,,18.0,3.0,7.0,8.0,9.46,2026-04-29T07:55:31.722905
+239371,Information,78,Hawaii,James Whitworth,,20.0,7.0,8.0,5.0,8.01,2026-04-29T07:55:31.722929
+239371,Information,79,Hawaii,Christopher Salem,,22.0,6.0,9.0,7.0,6.78,2026-04-29T07:55:31.722951
+239371,Information,80,Wyoming (IND),Austin Barry,,39.0,9.0,17.0,13.0,1.64,2026-04-29T07:55:31.722974
+239371,Information,81,Arizona (IND),Dillon Dean,,,12.0,,,0.5,2026-04-29T07:55:31.723001
+239221,Information,1,New Mexico,Mesa Falleur,#48,-12.0,-3.0,-5.0,-4.0,160.08,2026-04-29T07:55:32.284235
+239221,Information,2,Brigham Young,Kihei Akina,#20,-11.0,-4.0,-4.0,-3.0,147.28,2026-04-29T07:55:32.284267
+239221,Information,T3,Stanford,Jay Leng,#93,-7.0,-5.0,0.0,-2.0,105.53,2026-04-29T07:55:32.284290
+239221,Information,T3,San Jose State,Avinash Iyer,,-7.0,-2.0,1.0,-6.0,105.53,2026-04-29T07:55:32.284311
+239221,Information,T3,SMU,William Sides,#41,-7.0,-3.0,0.0,-4.0,105.53,2026-04-29T07:55:32.284333
+239221,Information,T6,Long Beach State,Alejandro De Castro,#53,-6.0,-3.0,-6.0,3.0,97.09,2026-04-29T07:55:32.284355
+239221,Information,T6,UCLA,Josh Kim,,-6.0,-1.0,-5.0,0.0,97.09,2026-04-29T07:55:32.284379
+239221,Information,T8,Stanford,Dean Greyserman,,-5.0,1.0,-4.0,-2.0,89.33,2026-04-29T07:55:32.284399
+239221,Information,T8,San Jose State,Keshav Mungali,,-5.0,-4.0,-1.0,0.0,89.33,2026-04-29T07:55:32.284419
+239221,Information,T8,Washington,Jacob Goode,,-5.0,1.0,-6.0,0.0,89.33,2026-04-29T07:55:32.284442
+239221,Information,T8,California,Trevor Cox,,-5.0,-2.0,-4.0,1.0,89.33,2026-04-29T07:55:32.284462
+239221,Information,T8,Washington State,Sam Renner,#149,-5.0,-2.0,-4.0,1.0,89.33,2026-04-29T07:55:32.284484
+239221,Information,T13,California,Sihao Cong,,-4.0,-2.0,2.0,-4.0,82.19,2026-04-29T07:55:32.284505
+239221,Information,T13,San Diego State,Harry Takis,#4,-4.0,-6.0,3.0,-1.0,82.19,2026-04-29T07:55:32.284525
+239221,Information,T15,Utah,Sergio Jimenez,#97,-3.0,-2.0,4.0,-5.0,75.62,2026-04-29T07:55:32.284547
+239221,Information,T15,UCLA,Kyle An,,-3.0,-1.0,3.0,-5.0,75.62,2026-04-29T07:55:32.284567
+239221,Information,T15,Brigham Young,Simon Kwon,#109,-3.0,-1.0,-2.0,0.0,75.62,2026-04-29T07:55:32.284589
+239221,Information,T15,Little Rock,Ed Featherstone,#122,-3.0,0.0,-4.0,1.0,75.62,2026-04-29T07:55:32.284611
+239221,Information,T19,Cincinnati,Ryan Ford,#86,-2.0,0.0,1.0,-3.0,69.57,2026-04-29T07:55:32.284633
+239221,Information,T19,Long Beach State,Jack Cantlay,,-2.0,0.0,0.0,-2.0,69.57,2026-04-29T07:55:32.284652
+239221,Information,T19,Stanford,Nathan Wang,#132,-2.0,-4.0,3.0,-1.0,69.57,2026-04-29T07:55:32.284674
+239221,Information,T19,New Mexico,Johnnie Clark,#139,-2.0,-2.0,-1.0,1.0,69.57,2026-04-29T07:55:32.284695
+239221,Information,T19,UCLA,Alex Papayoanou,,-2.0,-2.0,-3.0,3.0,69.57,2026-04-29T07:55:32.284714
+239221,Information,T19,Northwestern,Daniel Svard,#59,-2.0,1.0,0.0,-3.0,69.57,2026-04-29T07:55:32.284736
+239221,Information,T19,Colorado,Jackson Rivera,,-2.0,-1.0,-2.0,1.0,69.57,2026-04-29T07:55:32.284756
+239221,Information,T26,Santa Clara,JP Odland,,-1.0,3.0,-2.0,-2.0,64.01,2026-04-29T07:55:32.284776
+239221,Information,T26,Stanford,Ethan Gao,,-1.0,-3.0,3.0,-1.0,64.01,2026-04-29T07:55:32.284798
+239221,Information,T26,Cincinnati,Brayden Miller,,-1.0,4.0,-1.0,-4.0,64.01,2026-04-29T07:55:32.284818
+239221,Information,T29,Northwestern,Rowan Sullivan,#81,0.0,-3.0,-1.0,4.0,58.89,2026-04-29T07:55:32.284839
+239221,Information,T29,TCU (IND),Lewis Wright,,0.0,1.0,4.0,-5.0,58.89,2026-04-29T07:55:32.284859
+239221,Information,T29,Washington State,Dylan Burcham,,0.0,-5.0,2.0,3.0,58.89,2026-04-29T07:55:32.284878
+239221,Information,T29,New Mexico,Thayer Plewe,,0.0,-3.0,2.0,1.0,58.89,2026-04-29T07:55:32.284897
+239221,Information,T29,Oregon,Aiden Krafft,#106,0.0,3.0,-3.0,0.0,58.89,2026-04-29T07:55:32.284920
+239221,Information,T29,Santa Clara,Calder Overfelt,,0.0,-3.0,5.0,-2.0,58.89,2026-04-29T07:55:32.284941
+239221,Information,T29,San Diego State,Beau Sahr,,0.0,1.0,0.0,-1.0,58.89,2026-04-29T07:55:32.284961
+239221,Information,T29,SMU,Zachary Kingsland,,0.0,-1.0,1.0,0.0,58.89,2026-04-29T07:55:32.284981
+239221,Information,T37,Utah,Jack Jerge,,1.0,1.0,0.0,0.0,54.18,2026-04-29T07:55:32.285001
+239221,Information,T37,Nevada,Riki Matsumoto,,1.0,-1.0,0.0,2.0,54.18,2026-04-29T07:55:32.285020
+239221,Information,T37,TCU,Nathan Miller,,1.0,0.0,-3.0,4.0,54.18,2026-04-29T07:55:32.285040
+239221,Information,T37,Nevada,Ben Ortwein,,1.0,0.0,1.0,0.0,54.18,2026-04-29T07:55:32.285060
+239221,Information,T37,Pacific,Timothy Jung,,1.0,4.0,-3.0,0.0,54.18,2026-04-29T07:55:32.285079
+239221,Information,T37,Grand Canyon,Gavin O'Neill,,1.0,-1.0,1.0,1.0,54.18,2026-04-29T07:55:32.285099
+239221,Information,T37,Colorado,Hunter Swanson,,1.0,-1.0,3.0,-1.0,54.18,2026-04-29T07:55:32.285119
+239221,Information,T44,Georgia Tech,Aidan Tran,#68,2.0,0.0,1.0,1.0,49.85,2026-04-29T07:55:32.285140
+239221,Information,T44,Northwestern,Ethan Tseng,,2.0,2.0,-3.0,3.0,49.85,2026-04-29T07:55:32.285160
+239221,Information,T44,Georgia Tech,Hiroshi Tai,#56,2.0,2.0,5.0,-5.0,49.85,2026-04-29T07:55:32.285181
+239221,Information,T44,TCU,Jack Beauchamp,#135,2.0,1.0,0.0,1.0,49.85,2026-04-29T07:55:32.285202
+239221,Information,T44,Boise State,Cole Rueck,,2.0,-1.0,3.0,0.0,49.85,2026-04-29T07:55:32.285222
+239221,Information,T44,UC Davis,Curtis Da Silva,,2.0,-1.0,2.0,1.0,49.85,2026-04-29T07:55:32.285242
+239221,Information,T50,TCU,Charlie Wylie,,3.0,1.0,0.0,2.0,45.86,2026-04-29T07:55:32.285261
+239221,Information,T50,Northwestern (IND),Mark Gazi,,3.0,2.0,-1.0,2.0,45.86,2026-04-29T07:55:32.285281
+239221,Information,T50,Long Beach State,Krishnav Nikhil Chopraa,,3.0,-2.0,6.0,-1.0,45.86,2026-04-29T07:55:32.285300
+239221,Information,T50,Brigham Young,Peter Kim,,3.0,-1.0,0.0,4.0,45.86,2026-04-29T07:55:32.285320
+239221,Information,T50,Pacific,Travis Robbie,,3.0,4.0,2.0,-3.0,45.86,2026-04-29T07:55:32.285339
+239221,Information,T50,Brigham Young,Angus Klintworth,,3.0,1.0,-1.0,3.0,45.86,2026-04-29T07:55:32.285359
+239221,Information,T50,Utah,Davis Johnson,,3.0,-1.0,1.0,3.0,45.86,2026-04-29T07:55:32.285378
+239221,Information,T50,Nevada,Monte Chumchaivate,,3.0,1.0,4.0,-2.0,45.86,2026-04-29T07:55:32.285398
+239221,Information,T50,Santa Clara,Matthew Robles,,3.0,3.0,2.0,-2.0,45.86,2026-04-29T07:55:32.285419
+239221,Information,T59,Colorado,Brandon Knight,,4.0,0.0,0.0,4.0,42.2,2026-04-29T07:55:32.285439
+239221,Information,T59,Utah,Brandon Robison,,4.0,1.0,-1.0,4.0,42.2,2026-04-29T07:55:32.285459
+239221,Information,T59,SMU,Christian Clark,,4.0,1.0,2.0,1.0,42.2,2026-04-29T07:55:32.285479
+239221,Information,T59,Washington State,Garrett Harrison,,4.0,4.0,-1.0,1.0,42.2,2026-04-29T07:55:32.285498
+239221,Information,T59,UCLA,Baylor Larrabee,#76,4.0,4.0,-1.0,1.0,42.2,2026-04-29T07:55:32.285520
+239221,Information,T59,Georgia Tech,Albert Hansson,#100,4.0,3.0,1.0,0.0,42.2,2026-04-29T07:55:32.285542
+239221,Information,T59,New Mexico,Wyatt Provence,,4.0,-1.0,3.0,2.0,42.2,2026-04-29T07:55:32.285561
+239221,Information,T66,California,Ziqin Zhou,#54,5.0,1.0,2.0,2.0,38.82,2026-04-29T07:55:32.285583
+239221,Information,T66,UCLA,Tyler Loree,,5.0,0.0,1.0,4.0,38.82,2026-04-29T07:55:32.285602
+239221,Information,T66,Washington,Emil Borrestuen Herstad,,5.0,2.0,3.0,0.0,38.82,2026-04-29T07:55:32.285621
+239221,Information,T66,Pacific,Felix Bouchard,,5.0,3.0,0.0,2.0,38.82,2026-04-29T07:55:32.285641
+239221,Information,T66,Grand Canyon,Matthew Diehl,,5.0,5.0,-1.0,1.0,38.82,2026-04-29T07:55:32.285661
+239221,Information,T71,Nevada,Jonathan Kim,,6.0,3.0,0.0,3.0,35.72,2026-04-29T07:55:32.285679
+239221,Information,T71,Colorado,Ty Holbrook,,6.0,0.0,1.0,5.0,35.72,2026-04-29T07:55:32.285699
+239221,Information,T71,Stanford,Edan Cui,,6.0,2.0,1.0,3.0,35.72,2026-04-29T07:55:32.285719
+239221,Information,T71,Long Beach State,Steen Zeman,,6.0,-5.0,2.0,9.0,35.72,2026-04-29T07:55:32.285739
+239221,Information,T71,Cincinnati,Connor Cassano,,6.0,4.0,3.0,-1.0,35.72,2026-04-29T07:55:32.285759
+239221,Information,T71,Northwestern,Monty Holcombe,,6.0,4.0,0.0,2.0,35.72,2026-04-29T07:55:32.285779
+239221,Information,T71,California,Xihuan Chang,,6.0,-1.0,6.0,1.0,35.72,2026-04-29T07:55:32.285798
+239221,Information,T78,Eastern Michigan,Leandro Mihaich,,7.0,2.0,5.0,0.0,32.86,2026-04-29T07:55:32.285817
+239221,Information,T78,Washington,Jack Murphy,,7.0,2.0,6.0,-1.0,32.86,2026-04-29T07:55:32.285837
+239221,Information,T78,Georgia Tech,Benjamin Reuter,,7.0,2.0,3.0,2.0,32.86,2026-04-29T07:55:32.285856
+239221,Information,T78,Little Rock,Mark Stockdale,,7.0,4.0,0.0,3.0,32.86,2026-04-29T07:55:32.285875
+239221,Information,T78,SMU,Ben Steinmann,,7.0,-2.0,3.0,6.0,32.86,2026-04-29T07:55:32.285894
+239221,Information,T78,Pacific,Deitrek Gill,,7.0,4.0,3.0,0.0,32.86,2026-04-29T07:55:32.285913
+239221,Information,T78,Oregon,Jeffrey Kwak,,7.0,6.0,2.0,-1.0,32.86,2026-04-29T07:55:32.285932
+239221,Information,T78,Grand Canyon,Måns Boje,,7.0,2.0,1.0,4.0,32.86,2026-04-29T07:55:32.285953
+239221,Information,T78,Washington,Finn Koelle,,7.0,3.0,3.0,1.0,32.86,2026-04-29T07:55:32.285972
+239221,Information,T78,UC Davis,Shaunak Nair,,7.0,1.0,5.0,1.0,32.86,2026-04-29T07:55:32.285991
+239221,Information,T88,Washington,Grady Millar,,8.0,-1.0,6.0,3.0,30.23,2026-04-29T07:55:32.286011
+239221,Information,T88,Howard,Francisco Perez,,8.0,0.0,10.0,-2.0,30.23,2026-04-29T07:55:32.286030
+239221,Information,T88,California,Daniel Heo,,8.0,0.0,5.0,3.0,30.23,2026-04-29T07:55:32.286050
+239221,Information,T88,Stanford (IND),Cooper Stearns,,8.0,2.0,7.0,-1.0,30.23,2026-04-29T07:55:32.286071
+239221,Information,T88,Little Rock,Elliott Simonsen,,8.0,2.0,3.0,3.0,30.23,2026-04-29T07:55:32.286092
+239221,Information,T88,Stanford (IND),Ratchanon Chantananuwat,#114,8.0,0.0,4.0,4.0,30.23,2026-04-29T07:55:32.286113
+239221,Information,T88,Colorado,Parker Paxton,,8.0,4.0,3.0,1.0,30.23,2026-04-29T07:55:32.286133
+239221,Information,T88,San Diego State,Kai Hirayama,,8.0,6.0,1.0,1.0,30.23,2026-04-29T07:55:32.286153
+239221,Information,T88,Washington State,Dylan Boenning,,8.0,4.0,1.0,3.0,30.23,2026-04-29T07:55:32.286173
+239221,Information,T97,Cincinnati,Connor McNeely,,9.0,3.0,0.0,6.0,27.82,2026-04-29T07:55:32.286195
+239221,Information,T97,Hawaii-Hilo,Dysen Park,,9.0,3.0,2.0,4.0,,2026-04-29T07:55:32.286217
+239221,Information,T97,Howard,Michael Perusse,,9.0,4.0,0.0,5.0,27.82,2026-04-29T07:55:32.286237
+239221,Information,T97,Oregon,Casper Nerpin,,9.0,-3.0,3.0,9.0,27.82,2026-04-29T07:55:32.286257
+239221,Information,T97,Brigham Young,Tyson Shelley,,9.0,5.0,1.0,3.0,27.82,2026-04-29T07:55:32.286276
+239221,Information,T97,TCU,Toby Wilt,,9.0,8.0,-1.0,2.0,27.82,2026-04-29T07:55:32.286295
+239221,Information,T97,Boise State,Luke Cushman,,9.0,5.0,1.0,3.0,27.82,2026-04-29T07:55:32.286314
+239221,Information,T97,Cal Poly,Rafael Bobo-Lloret,,9.0,2.0,2.0,5.0,27.82,2026-04-29T07:55:32.286334
+239221,Information,T97,Long Beach State,Jaden Huggins,,9.0,0.0,3.0,6.0,27.82,2026-04-29T07:55:32.286353
+239221,Information,T97,Colorado State,Jake Rodgers,,9.0,5.0,1.0,3.0,27.82,2026-04-29T07:55:32.286372
+239221,Information,T107,SMU,Gabe Post,,10.0,4.0,4.0,2.0,25.59,2026-04-29T07:55:32.286391
+239221,Information,T107,Oregon (IND),Oscar Lent,,10.0,2.0,3.0,5.0,25.59,2026-04-29T07:55:32.286410
+239221,Information,T107,Cal Poly,Nolan Kuszyk,,10.0,2.0,5.0,3.0,25.59,2026-04-29T07:55:32.286428
+239221,Information,T107,Georgia Tech (IND),Brady Rackley IV,,10.0,0.0,6.0,4.0,25.59,2026-04-29T07:55:32.286448
+239221,Information,T107,Eastern Michigan,Robby Turnbull,,10.0,3.0,4.0,3.0,25.59,2026-04-29T07:55:32.286467
+239221,Information,T107,Hawaii-Hilo,Katsuhiro Yamashita,,10.0,2.0,3.0,5.0,,2026-04-29T07:55:32.286487
+239221,Information,T107,Oregon,Ramil Saelim,,10.0,-5.0,8.0,7.0,25.59,2026-04-29T07:55:32.286507
+239221,Information,T114,Howard,Mitchell Grey,,11.0,5.0,4.0,2.0,23.55,2026-04-29T07:55:32.286533
+239221,Information,T114,Oregon,Sebastian Desoisa,,11.0,5.0,0.0,6.0,23.55,2026-04-29T07:55:32.286554
+239221,Information,T114,San Diego State,Chanachon Chokprajakchat,,11.0,5.0,0.0,6.0,23.55,2026-04-29T07:55:32.286574
+239221,Information,T114,UC Davis,Zhenxian Zhang,,11.0,2.0,11.0,-2.0,23.55,2026-04-29T07:55:32.286594
+239221,Information,T114,TCU,Sam Udovich,,11.0,7.0,0.0,4.0,23.55,2026-04-29T07:55:32.286613
+239221,Information,T114,Cincinnati,Leo Wessel,,11.0,4.0,3.0,4.0,23.55,2026-04-29T07:55:32.286633
+239221,Information,T114,Howard,Mathis Perroni,,11.0,5.0,0.0,6.0,23.55,2026-04-29T07:55:32.286653
+239221,Information,T121,UC Davis,Lequan Wang,,12.0,3.0,0.0,9.0,21.66,2026-04-29T07:55:32.286672
+239221,Information,T121,New Mexico,Emil Albers,#99,12.0,5.0,4.0,3.0,21.66,2026-04-29T07:55:32.286693
+239221,Information,T121,Howard,Marlon Jones,,12.0,-3.0,7.0,8.0,21.66,2026-04-29T07:55:32.286713
+239221,Information,T121,Nevada,Liam Gobin,,12.0,7.0,1.0,4.0,21.66,2026-04-29T07:55:32.286733
+239221,Information,T125,Washington State,Ben Borgida,,13.0,6.0,1.0,6.0,19.93,2026-04-29T07:55:32.286752
+239221,Information,T125,Georgia Tech,Kale Fontenot,,13.0,9.0,7.0,-3.0,19.93,2026-04-29T07:55:32.286772
+239221,Information,T127,Hawaii-Hilo,Dylan Bercan,#115,14.0,2.0,8.0,4.0,,2026-04-29T07:55:32.286793
+239221,Information,T127,Boise State,Gavyn Knight,,14.0,7.0,6.0,1.0,18.34,2026-04-29T07:55:32.286812
+239221,Information,T127,Eastern Michigan,Charlie Box,,14.0,2.0,7.0,5.0,18.34,2026-04-29T07:55:32.286832
+239221,Information,T127,Little Rock,Rhett South,,14.0,4.0,2.0,8.0,18.34,2026-04-29T07:55:32.286852
+239221,Information,T127,Colorado State,Owen Mullen,,14.0,4.0,7.0,3.0,18.34,2026-04-29T07:55:32.286871
+239221,Information,T127,San Diego State,Nathan Sampson,,14.0,0.0,8.0,6.0,18.34,2026-04-29T07:55:32.286891
+239221,Information,T127,Cal Poly,Kyle Dougherty,,14.0,4.0,6.0,4.0,18.34,2026-04-29T07:55:32.286911
+239221,Information,T134,Little Rock,Viggo Talasmaki,,15.0,8.0,5.0,2.0,16.87,2026-04-29T07:55:32.286932
+239221,Information,T134,Eastern Michigan,Tim Chan,,15.0,8.0,6.0,1.0,16.87,2026-04-29T07:55:32.286950
+239221,Information,T134,Grand Canyon,Nixon Lauritzen,,15.0,1.0,7.0,7.0,16.87,2026-04-29T07:55:32.286970
+239221,Information,T134,Hawaii-Hilo (IND),Jordan Sato,,15.0,9.0,5.0,1.0,,2026-04-29T07:55:32.286989
+239221,Information,T138,Colorado State,Florentin Meller,,16.0,4.0,7.0,5.0,15.52,2026-04-29T07:55:32.287008
+239221,Information,T138,Boise State,Chase Gorder,,16.0,7.0,6.0,3.0,15.52,2026-04-29T07:55:32.287028
+239221,Information,T138,Boise State,Reese Knox,,16.0,9.0,3.0,4.0,15.52,2026-04-29T07:55:32.287046
+239221,Information,T138,Stanford (IND),Kush Arora,,16.0,5.0,4.0,7.0,15.52,2026-04-29T07:55:32.287065
+239221,Information,T138,Cal Poly,Jack Jarvis,,16.0,4.0,5.0,7.0,15.52,2026-04-29T07:55:32.287084
+239221,Information,T143,Grand Canyon,Daniel Nilsson,,17.0,6.0,9.0,2.0,14.28,2026-04-29T07:55:32.287104
+239221,Information,T143,San Jose State,Christian Maggard,,17.0,6.0,3.0,8.0,14.28,2026-04-29T07:55:32.287150
+239221,Information,T143,Northwestern,Jeremy Chen,,17.0,7.0,5.0,5.0,14.28,2026-04-29T07:55:32.287169
+239221,Information,T143,Hawaii-Hilo,Jacob Torres,,17.0,8.0,6.0,3.0,,2026-04-29T07:55:32.287189
+239221,Information,T143,Hawaii-Hilo,Ben Crinella,#149,17.0,2.0,1.0,14.0,,2026-04-29T07:55:32.287210
+239221,Information,148,San Jose State,Ivan Barahona,,19.0,5.0,5.0,9.0,12.09,2026-04-29T07:55:32.287229
+239221,Information,T149,San Jose State,Jed Dy,,21.0,13.0,1.0,7.0,10.23,2026-04-29T07:55:32.287249
+239221,Information,T149,UC Davis,Ivan Sablan,,21.0,11.0,4.0,6.0,10.23,2026-04-29T07:55:32.287268
+239221,Information,T149,Eastern Michigan,Joshua Hess,,21.0,4.0,13.0,4.0,10.23,2026-04-29T07:55:32.287296
+239221,Information,T149,Utah,Gabriel Palacios,#72,21.0,11.0,4.0,6.0,10.23,2026-04-29T07:55:32.287318
+239221,Information,153,Colorado State,Alessandro Trenta,,22.0,7.0,11.0,4.0,9.42,2026-04-29T07:55:32.287337
+239221,Information,T154,Santa Clara,Kevin Hollomon,,25.0,12.0,3.0,10.0,7.33,2026-04-29T07:55:32.287370
+239221,Information,T154,Santa Clara,Tucker Sweeney,,25.0,11.0,5.0,9.0,7.33,2026-04-29T07:55:32.287389
+239221,Information,156,California (IND),Eddie Zhang,,26.0,8.0,11.0,7.0,6.75,2026-04-29T07:55:32.287407
+239221,Information,157,Pacific,Ian Fritz,,27.0,6.0,17.0,4.0,6.21,2026-04-29T07:55:32.287426
+239221,Information,158,Colorado State,Matthew Wilkinson,,31.0,11.0,15.0,5.0,4.45,2026-04-29T07:55:32.287446
+239221,Information,159,Cal Poly,Leo Metzger,,33.0,10.0,12.0,11.0,3.76,2026-04-29T07:55:32.287465
+239221,Information,160,San Jose State (IND),Xuan Luo,,36.0,19.0,5.0,12.0,2.93,2026-04-29T07:55:32.287484
