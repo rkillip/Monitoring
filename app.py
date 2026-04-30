@@ -238,16 +238,20 @@ with tab1:
         )
 
     # ── Style and render ──────────────────────────────────────────────────────
+    # Track which rows are recruits/LBSU before dropping helper columns
+    is_recruit = display["Is Recruit"].tolist()
+    is_lbsu = display["Is LBSU"].tolist()
+    display_clean = display.drop(columns=["Is LBSU", "Is Recruit"])
+
     def style_leaderboard(row):
-        if row["Is Recruit"]:
+        idx = row.name
+        if idx < len(is_recruit) and is_recruit[idx]:
             return ["color: #c0392b; font-weight: 700"] * len(row)
-        elif row["Is LBSU"]:
+        elif idx < len(is_lbsu) and is_lbsu[idx]:
             return ["font-weight: 600; background-color: #f5f5f5"] * len(row)
         return [""] * len(row)
 
-    display_styled = display.drop(columns=["Is LBSU", "Is Recruit"]).style.apply(
-        style_leaderboard, axis=1
-    )
+    display_styled = display_clean.style.apply(style_leaderboard, axis=1)
 
     st.dataframe(
         display_styled,
