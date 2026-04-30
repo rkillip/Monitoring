@@ -1,0 +1,134 @@
+[
+  {
+    "name": "Jorge Martin Sampedro",
+    "school": "UTRGV",
+    "country": "ESP",
+    "points_avg": 37.92,
+    "scoring_avg": 71.5,
+    "ranking": "#400",
+    "notes": "4 Top-10's, 2nd place in first college start, 8th at Maridoe, needs to develop but game is there",
+    "sg_data": [
+      {
+        "tournament_name": "Ram Masters",
+        "sg": 0.7,
+        "actual_tournament": ""
+      },
+      {
+        "tournament_name": "Tucker Intercollegiate",
+        "sg": -3.82,
+        "actual_tournament": ""
+      },
+      {
+        "tournament_name": "Mark Simpson",
+        "sg": -1.39,
+        "actual_tournament": ""
+      },
+      {
+        "tournament_name": "Bayonet",
+        "sg": -4.59,
+        "actual_tournament": ""
+      },
+      {
+        "tournament_name": "Preserve",
+        "sg": -0.86,
+        "actual_tournament": ""
+      },
+      {
+        "tournament_name": "Hawaii",
+        "sg": -1.99,
+        "actual_tournament": ""
+      },
+      {
+        "tournament_name": "Lamkin",
+        "sg": -0.99,
+        "actual_tournament": ""
+      },
+      {
+        "tournament_name": "Arizona",
+        "sg": -1.85,
+        "actual_tournament": ""
+      },
+      {
+        "tournament_name": "The Goodwin",
+        "sg": 1.99,
+        "actual_tournament": ""
+      },
+      {
+        "tournament_name": "Thunderbird",
+        "sg": -1.98,
+        "actual_tournament": ""
+      }
+    ]
+  },
+  {
+    "name": "Rasmus Ditzinger",
+    "school": "Fairfield",
+    "country": "SWE",
+    "points_avg": 41.06,
+    "scoring_avg": 71.0,
+    "ranking": "#331",
+    "notes": "Two wins. Worst finish is 11th in 6 starts",
+    "sg_data": [
+      {
+        "tournament_name": "Ram Masters",
+        "sg": -0.33,
+        "actual_tournament": ""
+      },
+      {
+        "tournament_name": "Tucker Intercollegiate",
+        "sg": -0.04,
+        "actual_tournament": ""
+      },
+      {
+        "tournament_name": "Mark Simpson",
+        "sg": -0.95,
+        "actual_tournament": ""
+      },
+      {
+        "tournament_name": "Bayonet",
+        "sg": -1.81,
+        "actual_tournament": ""
+      },
+      {
+        "tournament_name": "Preserve",
+        "sg": -2.39,
+        "actual_tournament": ""
+      },
+      {
+        "tournament_name": "Hawaii",
+        "sg": -1.31,
+        "actual_tournament": ""
+      },
+      {
+        "tournament_name": "Lamkin",
+        "sg": 0.42,
+        "actual_tournament": ""
+      },
+      {
+        "tournament_name": "Arizona",
+        "sg": 1.8,
+        "actual_tournament": ""
+      }
+    ]
+  },
+  {
+    "name": "Alvaro Pastor",
+    "school": "Tarlton State",
+    "country": "ESP",
+    "points_avg": 55.86,
+    "scoring_avg": 70.0,
+    "ranking": "#129",
+    "notes": "3 Top-15's in 5 events, 4 events under par. Impressive consistency thru 5 tournaments",
+    "sg_data": []
+  },
+  {
+    "name": "Drew Sykes",
+    "school": "Coastal Carolina",
+    "country": "ENG",
+    "points_avg": 47.3,
+    "scoring_avg": 70.4,
+    "ranking": "#213",
+    "notes": "Super consistent",
+    "sg_data": []
+  }
+]
