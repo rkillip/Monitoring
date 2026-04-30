@@ -127,7 +127,7 @@ def get_team_place(field_df, proj_score):
 # HEADER
 # ─────────────────────────────────────────────────────────────────────────────
 
-st.markdown("## ⛳ Golf Recruit Overlay Tool")
+st.markdown("## Monitoring")
 st.markdown("---")
 
 tournament_df = load_tournament_data()
@@ -147,9 +147,9 @@ recruit_names = [r["name"] for r in watchlist]
 # ─────────────────────────────────────────────────────────────────────────────
 
 tab1, tab2, tab3 = st.tabs([
-    "🏆  Tournament leaderboard",
-    "👤  Player profile",
-    "📊  Schedule overlay",
+    " Tournament leaderboard",
+    " Player profile",
+    " Schedule overlay",
 ])
 
 
