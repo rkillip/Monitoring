@@ -1,164 +1,325 @@
 """
-Clippd Scoreboard Scraper
-Pulls tournament leaderboard data including player, school, score, and points.
+Watchlist & Schedule Overlay
+Core logic for slotting a recruit's SG into your tournament leaderboards
+and projecting finish position, team placement, and points.
 """
 
-import requests
-from bs4 import BeautifulSoup
 import pandas as pd
 import json
 import os
-import re
-from datetime import datetime
-
-HEADERS = {
-    "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-}
+from dataclasses import dataclass, field, asdict
+from typing import Optional
 
 DATA_DIR = "data"
+WATCHLIST_FILE = os.path.join(DATA_DIR, "watchlist.json")
 os.makedirs(DATA_DIR, exist_ok=True)
 
 
-def get_tournament_leaderboard(tournament_id: int) -> pd.DataFrame:
+# ---------------------------------------------------------------------------
+# Data Models
+# ---------------------------------------------------------------------------
+
+@dataclass
+class RecruitSGEntry:
+    """One tournament's SG result for a recruit."""
+    tournament_name: str   # e.g. "Ram Masters" — matched to your schedule
+    sg: float              # Strokes Gained value
+    actual_tournament: str = ""  # The real tournament they played (for reference)
+
+
+@dataclass
+class Recruit:
+    """A player on your watchlist."""
+    name: str
+    school: str
+    country: str                        # "USA" or country code for internationals
+    points_avg: float = 0.0
+    scoring_avg: float = 0.0
+    ranking: str = ""
+    notes: str = ""
+    sg_data: list[RecruitSGEntry] = field(default_factory=list)
+
+    def to_dict(self):
+        d = asdict(self)
+        return d
+
+    @classmethod
+    def from_dict(cls, d):
+        sg_entries = [RecruitSGEntry(**e) for e in d.pop("sg_data", [])]
+        return cls(**d, sg_data=sg_entries)
+
+
+# ---------------------------------------------------------------------------
+# Watchlist Management
+# ---------------------------------------------------------------------------
+
+def load_watchlist() -> list[Recruit]:
+    """Load watchlist from JSON file."""
+    if not os.path.exists(WATCHLIST_FILE):
+        return []
+    with open(WATCHLIST_FILE, "r") as f:
+        data = json.load(f)
+    return [Recruit.from_dict(r) for r in data]
+
+
+def save_watchlist(recruits: list[Recruit]):
+    """Save watchlist to JSON file."""
+    with open(WATCHLIST_FILE, "w") as f:
+        json.dump([r.to_dict() for r in recruits], f, indent=2)
+    print(f"Saved {len(recruits)} recruits to {WATCHLIST_FILE}")
+
+
+def add_recruit(recruit: Recruit):
+    """Add or update a recruit in the watchlist."""
+    recruits = load_watchlist()
+    # Replace if already exists
+    recruits = [r for r in recruits if r.name != recruit.name]
+    recruits.append(recruit)
+    save_watchlist(recruits)
+    print(f"Added/updated: {recruit.name} ({recruit.school})")
+
+
+def remove_recruit(name: str):
+    """Remove a recruit by name."""
+    recruits = load_watchlist()
+    recruits = [r for r in recruits if r.name != name]
+    save_watchlist(recruits)
+    print(f"Removed: {name}")
+
+
+# ---------------------------------------------------------------------------
+# Schedule Overlay & Projection
+# ---------------------------------------------------------------------------
+
+LBSU_TEAM = [
+    "Alejandro De Castro",
+    "Steen Zeman",
+    "Krishnav Nikhil Chopraa",
+    "Jaden Huggins",
+    "Norwin Gohm",
+    "Jack Cantlay",
+    # Add/update your full roster here
+]
+
+
+def load_tournament_data() -> pd.DataFrame:
+    """Load scraped tournament data."""
+    path = os.path.join(DATA_DIR, "tournament_data.csv")
+    if not os.path.exists(path):
+        print("No tournament data found. Run scraper.py first.")
+        return pd.DataFrame()
+    return pd.read_csv(path)
+
+
+def score_to_sg_approx(total_score: float, field_avg_score: float) -> float:
     """
-    Scrapes the player leaderboard for a given tournament ID.
-    URL format: https://scoreboard.clippd.com/tournaments/{id}/scoring/player
-    Returns a DataFrame with all players, scores, and points.
+    Approximate SG from score relative to field average.
+    SG ≈ -(player_score - field_avg) / rounds
+    This is a simplified version — actual Clippd SG also adjusts for SoF.
     """
-    url = f"https://scoreboard.clippd.com/tournaments/{tournament_id}/scoring/player"
-    print(f"  Fetching: {url}")
+    return -(total_score - field_avg_score)
 
-    response = requests.get(url, headers=HEADERS, timeout=15)
-    response.raise_for_status()
-    soup = BeautifulSoup(response.text, "html.parser")
 
-    # Extract tournament name from page title/header
-    tournament_name = "Unknown Tournament"
-    h1 = soup.find("h1")
-    if h1:
-        tournament_name = h1.get_text(strip=True)
+def project_recruit_in_tournament(
+    recruit: Recruit,
+    tournament_name: str,
+    tournament_df: pd.DataFrame
+) -> Optional[dict]:
+    """
+    Given a recruit's SG for a tournament and the full field data,
+    project where they would have finished.
+    
+    Returns a dict with finish, points, team placement, etc.
+    """
+    # Find recruit's SG entry for this tournament
+    sg_entry = next(
+        (e for e in recruit.sg_data if e.tournament_name == tournament_name),
+        None
+    )
+    if sg_entry is None:
+        return None
 
-    # Find the leaderboard table
-    table = soup.find("table")
-    if not table:
-        print(f"  WARNING: No table found for tournament {tournament_id}")
+    recruit_sg = sg_entry.sg
+
+    # Get field data for this tournament
+    tourn_df = tournament_df[tournament_df["tournament_name"] == tournament_name].copy()
+    if tourn_df.empty:
+        print(f"  No data for tournament: {tournament_name}")
+        return None
+
+    # Approximate recruit's total score using field average
+    # SG = -(score - field_avg), so score = field_avg - SG
+    field_avg = tourn_df["total_score"].mean()
+    recruit_score = field_avg - recruit_sg
+
+    # Find where recruit slots into the leaderboard by score
+    field_scores = sorted(tourn_df["total_score"].dropna().tolist())
+
+    # Count how many players beat the recruit
+    players_ahead = sum(1 for s in field_scores if s < recruit_score)
+    finish_position = players_ahead + 1
+    total_players = len(field_scores)
+
+    # Interpolate points based on surrounding players
+    # Find the closest actual score and use their points
+    tourn_df["score_diff"] = abs(tourn_df["total_score"] - recruit_score)
+    closest = tourn_df.nsmallest(2, "score_diff")
+    projected_points = closest["points"].mean() if not closest.empty else None
+
+    # Team placement — where among LBSU players would recruit finish?
+    lbsu_df = tourn_df[tourn_df["player_name"].isin(LBSU_TEAM)].copy()
+    lbsu_scores = sorted(lbsu_df["total_score"].dropna().tolist())
+    lbsu_ahead = sum(1 for s in lbsu_scores if s < recruit_score)
+    team_placement = lbsu_ahead + 1
+
+    return {
+        "tournament":       tournament_name,
+        "recruit_sg":       recruit_sg,
+        "recruit_score":    round(recruit_score, 1),
+        "field_avg_score":  round(field_avg, 1),
+        "finish":           f"T{finish_position}" if finish_position > 1 else "1",
+        "finish_num":       finish_position,
+        "total_players":    total_players,
+        "projected_points": round(projected_points, 2) if projected_points else None,
+        "team_placement":   team_placement,
+        "lbsu_players_in_event": len(lbsu_scores),
+    }
+
+
+def run_schedule_overlay(recruit: Recruit) -> pd.DataFrame:
+    """
+    Run the full schedule overlay for a recruit.
+    Projects their finish in every tournament where we have SG data.
+    """
+    tournament_df = load_tournament_data()
+    if tournament_df.empty:
         return pd.DataFrame()
 
-    rows = []
-    for tr in table.find_all("tr")[1:]:  # skip header row
-        cols = tr.find_all("td")
-        if len(cols) < 9:
-            continue
+    results = []
+    for sg_entry in recruit.sg_data:
+        projection = project_recruit_in_tournament(
+            recruit,
+            sg_entry.tournament_name,
+            tournament_df
+        )
+        if projection:
+            results.append(projection)
 
-        finish      = cols[0].get_text(strip=True)
-        move        = cols[1].get_text(strip=True)
-        player_cell = cols[2].get_text(separator="|", strip=True)
-        ranking     = cols[3].get_text(strip=True)
-        total       = cols[4].get_text(strip=True)
-        thru        = cols[5].get_text(strip=True)
-        rd1         = cols[6].get_text(strip=True)
-        rd2         = cols[7].get_text(strip=True)
-        rd3         = cols[8].get_text(strip=True) if len(cols) > 8 else ""
-        pts_raw     = cols[-1].get_text(strip=True)
+    if not results:
+        print(f"No projections available for {recruit.name}")
+        return pd.DataFrame()
 
-        # Player cell format: "School|Player Name|School|#Rank" or similar
-        parts = [p for p in player_cell.split("|") if p.strip()]
-        player_name = ""
-        school = ""
-        if len(parts) >= 2:
-            # Usually: School, Player Name, School, Rank
-            school = parts[0]
-            player_name = parts[1]
-        elif len(parts) == 1:
-            player_name = parts[0]
+    df = pd.DataFrame(results)
 
-        # Clean up score values
-        def clean_score(val):
-            val = val.strip()
-            if val in ["E", "", "-"]:
-                return 0
-            try:
-                return int(val)
-            except ValueError:
-                return None
+    # Summary stats
+    avg_points = df["projected_points"].mean()
+    avg_finish = df["finish_num"].mean()
+    avg_team_placement = df["team_placement"].mean()
 
-        pts = None
-        try:
-            pts = float(pts_raw)
-        except ValueError:
-            pass
+    print(f"\n{'='*60}")
+    print(f"Schedule Overlay: {recruit.name} ({recruit.school})")
+    print(f"{'='*60}")
+    print(df[["tournament", "recruit_sg", "finish", "projected_points", "team_placement"]].to_string(index=False))
+    print(f"\n  Avg Points:         {avg_points:.2f}")
+    print(f"  Avg Finish:         {avg_finish:.1f}")
+    print(f"  Avg Team Placement: {avg_team_placement:.1f}")
+    print(f"{'='*60}\n")
 
-        rows.append({
-            "tournament_id":   tournament_id,
-            "tournament_name": tournament_name,
-            "finish":          finish,
-            "player_name":     player_name,
-            "school":          school,
-            "ranking":         ranking,
-            "total_score":     clean_score(total),
-            "rd1":             clean_score(rd1),
-            "rd2":             clean_score(rd2),
-            "rd3":             clean_score(rd3),
-            "points":          pts,
-            "scraped_at":      datetime.now().isoformat()
-        })
-
-    df = pd.DataFrame(rows)
-    print(f"  Found {len(df)} players in '{tournament_name}'")
     return df
 
 
-def scrape_tournaments(tournament_ids: list) -> pd.DataFrame:
-    """Scrape multiple tournaments and return combined DataFrame."""
-    all_dfs = []
-    for tid in tournament_ids:
-        print(f"\nScraping tournament {tid}...")
-        try:
-            df = get_tournament_leaderboard(tid)
-            if not df.empty:
-                all_dfs.append(df)
-        except Exception as e:
-            print(f"  ERROR scraping tournament {tid}: {e}")
+# ---------------------------------------------------------------------------
+# Seed watchlist with your current prospects
+# ---------------------------------------------------------------------------
 
-    if not all_dfs:
-        return pd.DataFrame()
+def seed_initial_watchlist():
+    """Seed with the players from your Excel model."""
 
-    combined = pd.concat(all_dfs, ignore_index=True)
-    return combined
+    jorge = Recruit(
+        name="Jorge Martin Sampedro",
+        school="UTRGV",
+        country="ESP",
+        points_avg=37.92,
+        scoring_avg=71.5,
+        ranking="#400",
+        notes="4 Top-10's, 2nd place in first college start, 8th at Maridoe, needs to develop but game is there",
+        sg_data=[
+            RecruitSGEntry("Ram Masters Invitational", 0.7),
+            RecruitSGEntry("William H. Tucker Intercollegiate", -3.82),
+            RecruitSGEntry("Mark Simpson Colorado Invitational", -1.39),
+            RecruitSGEntry("John A. Burns Intercollegiate", -4.59),
+            RecruitSGEntry("The Preserve Golf Club Collegiate", -0.86),
+            RecruitSGEntry("R.E. Lamkin Invitational", -0.99),
+            RecruitSGEntry("Arizona Thunderbirds Intercollegiate", -1.85),
+            RecruitSGEntry("The Goodwin", 1.99),
+            RecruitSGEntry("Thunderbird Collegiate", -1.98),
+        ]
+    )
 
+    rasmus = Recruit(
+        name="Rasmus Ditzinger",
+        school="Fairfield",
+        country="SWE",
+        points_avg=41.06,
+        scoring_avg=71.0,
+        ranking="#331",
+        notes="Two wins. Worst finish is 11th in 6 starts",
+        sg_data=[
+            RecruitSGEntry("Ram Masters Invitational", -0.33),
+            RecruitSGEntry("William H. Tucker Intercollegiate", -0.04),
+            RecruitSGEntry("Mark Simpson Colorado Invitational", -0.95),
+            RecruitSGEntry("John A. Burns Intercollegiate", -1.81),
+            RecruitSGEntry("The Preserve Golf Club Collegiate", -2.39),
+            RecruitSGEntry("R.E. Lamkin Invitational", 0.42),
+            RecruitSGEntry("Arizona Thunderbirds Intercollegiate", 1.8),
+        ]
+    )
 
-def save_tournament_data(df: pd.DataFrame, filename: str = "tournament_data.csv"):
-    """Save scraped data to CSV."""
-    path = os.path.join(DATA_DIR, filename)
-    df.to_csv(path, index=False)
-    print(f"\nSaved {len(df)} rows to {path}")
-    return path
+    alvaro = Recruit(
+        name="Alvaro Pastor",
+        school="Tarlton State",
+        country="ESP",
+        points_avg=55.86,
+        scoring_avg=70.0,
+        ranking="#129",
+        notes="3 Top-15's in 5 events, 4 events under par. Impressive consistency thru 5 tournaments",
+    )
+
+    drew = Recruit(
+        name="Drew Sykes",
+        school="Coastal Carolina",
+        country="ENG",
+        points_avg=47.3,
+        scoring_avg=70.4,
+        ranking="#213",
+        notes="Super consistent",
+    )
+
+    save_watchlist([jorge, rasmus, alvaro, drew])
+    print("Watchlist seeded with initial prospects.")
 
 
 if __name__ == "__main__":
-    # Long Beach State 2024-25 tournament IDs
-    # Add/update these as needed each season
-    LBSU_TOURNAMENTS = {
-        238883: "Thunderbird Collegiate",
-        # 240002: "Ram Masters Invitational",
-        # 239974: "William H. Tucker Intercollegiate",
-        # 238697: "Mark Simpson Colorado Invitational",
-        # 239901: "Saint Mary's Invitational",
-        # 238648: "The Preserve Golf Club Collegiate",
-        # 238577: "John A. Burns Intercollegiate",
-        # 238773: "R.E. Lamkin Invitational",
-        # 239371: "Arizona Thunderbirds Intercollegiate",
-        # 239221: "The Goodwin",
-    }
+    print("=== Watchlist & Overlay Tool ===\n")
 
-    print("=== Clippd Scoreboard Scraper ===")
-    print(f"Scraping {len(LBSU_TOURNAMENTS)} tournaments...\n")
+    # Seed if no watchlist exists
+    if not os.path.exists(WATCHLIST_FILE):
+        print("No watchlist found. Seeding with initial prospects...\n")
+        seed_initial_watchlist()
 
-    df = scrape_tournaments(list(LBSU_TOURNAMENTS.keys()))
+    # Show watchlist
+    recruits = load_watchlist()
+    print(f"Watchlist: {len(recruits)} recruits\n")
+    for r in recruits:
+        print(f"  {r.name} | {r.school} | {r.ranking} | Pts Avg: {r.points_avg}")
 
-    if not df.empty:
-        save_tournament_data(df)
-        print("\nSample output:")
-        print(df[["tournament_name", "finish", "player_name", "school", "total_score", "points"]].head(10).to_string(index=False))
+    # Run overlay for recruits who have SG data
+    print("\n--- Running Schedule Overlays ---")
+    tournament_df = load_tournament_data()
+    if tournament_df.empty:
+        print("\nNo tournament data yet — run scraper.py first to pull tournament data.")
+        print("Once you have tournament data, run this script again to see projections.")
     else:
-        print("No data scraped.")
+        for recruit in recruits:
+            if recruit.sg_data:
+                run_schedule_overlay(recruit)
